@@ -1,0 +1,9 @@
+{
+  "id": "datos.legislatura.gob.ar",
+  "url": "https://datos.legislatura.gob.ar/",
+  "date": "2026-10-16",
+  "timezone": "America/Argentina/Buenos_Aires",
+  "checks": [
+    {"time": "2026-10-16T10:01:34-03:00", "up": false, "status": null, "ms": 4, "error": "connection refused"}
+  ]
+}
