@@ -4,6 +4,7 @@
   "date": "2026-10-16",
   "timezone": "America/Argentina/Buenos_Aires",
   "checks": [
-    {"time": "2026-10-16T10:01:34-03:00", "up": false, "status": null, "ms": 30034, "error": "timeout"}
+    {"time": "2026-10-16T10:01:34-03:00", "up": false, "status": null, "ms": 30034, "error": "timeout"},
+    {"time": "2026-10-16T10:03:14-03:00", "up": false, "status": null, "ms": 30032, "error": "timeout"}
   ]
 }
