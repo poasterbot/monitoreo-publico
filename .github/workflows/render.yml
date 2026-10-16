@@ -1,0 +1,32 @@
+name: Actualizar gráfico
+
+on:
+  schedule:
+    # 03:30 UTC = 00:30 en Argentina, con el día anterior ya completo.
+    - cron: "30 3 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency: render
+
+jobs:
+  render:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v5
+      - run: python3 monitor/render.py
+      - name: Commit
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/uptime.svg README.md
+          git diff --cached --quiet && exit 0
+          git commit -m "Actualizar gráfico de disponibilidad"
+          # The monitoring machine pushes data every 30 minutes; rebase onto it.
+          for i in 1 2 3; do
+            git pull --rebase origin main && git push origin main && exit 0
+            sleep 10
+          done
+          exit 1
