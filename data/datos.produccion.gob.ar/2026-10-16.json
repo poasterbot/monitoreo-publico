@@ -10,6 +10,7 @@
     {"time": "2026-10-16T11:00:01-03:00", "up": false, "status": null, "ms": 30032, "error": "timeout"},
     {"time": "2026-10-16T11:30:01-03:00", "up": false, "status": null, "ms": 30033, "error": "timeout"},
     {"time": "2026-10-16T12:00:01-03:00", "up": false, "status": null, "ms": 30004, "error": "timeout"},
-    {"time": "2026-10-16T12:30:01-03:00", "up": false, "status": null, "ms": 30032, "error": "timeout"}
+    {"time": "2026-10-16T12:30:01-03:00", "up": false, "status": null, "ms": 30032, "error": "timeout"},
+    {"time": "2026-10-16T13:00:01-03:00", "up": false, "status": null, "ms": 30033, "error": "timeout"}
   ]
 }
