@@ -657,8 +657,8 @@ text{font-size:12px}.h1{font-size:16px;font-weight:600}.h2{font-size:12px;font-w
 <rect class="empty" x="1028" y="198.0" width="6" height="12" rx="1.5"/>
 <rect class="empty" x="1036" y="198.0" width="6" height="12" rx="1.5"/>
 <rect class="empty" x="1044" y="198.0" width="6" height="12" rx="1.5"/>
-<rect class="none" x="1052" y="198.0" width="6" height="12" rx="1.5"/>
-<text class="t2" x="1122" y="208" text-anchor="end">0%</text>
+<rect class="some" x="1052" y="198.0" width="6" height="12" rx="1.5"/>
+<text class="t2" x="1122" y="208" text-anchor="end">55,2%</text>
 <text class="t1 mono" x="24" y="224">datos.energia.gob.ar</text>
 <rect class="empty" x="340" y="214.0" width="6" height="12" rx="1.5"/>
 <rect class="empty" x="348" y="214.0" width="6" height="12" rx="1.5"/>
@@ -749,8 +749,8 @@ text{font-size:12px}.h1{font-size:16px;font-weight:600}.h2{font-size:12px;font-w
 <rect class="empty" x="1028" y="214.0" width="6" height="12" rx="1.5"/>
 <rect class="empty" x="1036" y="214.0" width="6" height="12" rx="1.5"/>
 <rect class="empty" x="1044" y="214.0" width="6" height="12" rx="1.5"/>
-<rect class="full" x="1052" y="214.0" width="6" height="12" rx="1.5"/>
-<text class="t2" x="1122" y="224" text-anchor="end">100%</text>
+<rect class="some" x="1052" y="214.0" width="6" height="12" rx="1.5"/>
+<text class="t2" x="1122" y="224" text-anchor="end">65,5%</text>
 <text class="t1 mono" x="24" y="240">datos.salud.gob.ar</text>
 <rect class="empty" x="340" y="230.0" width="6" height="12" rx="1.5"/>
 <rect class="empty" x="348" y="230.0" width="6" height="12" rx="1.5"/>
@@ -933,8 +933,8 @@ text{font-size:12px}.h1{font-size:16px;font-weight:600}.h2{font-size:12px;font-w
 <rect class="empty" x="1028" y="246.0" width="6" height="12" rx="1.5"/>
 <rect class="empty" x="1036" y="246.0" width="6" height="12" rx="1.5"/>
 <rect class="empty" x="1044" y="246.0" width="6" height="12" rx="1.5"/>
-<rect class="full" x="1052" y="246.0" width="6" height="12" rx="1.5"/>
-<text class="t2" x="1122" y="256" text-anchor="end">100%</text>
+<rect class="some" x="1052" y="246.0" width="6" height="12" rx="1.5"/>
+<text class="t2" x="1122" y="256" text-anchor="end">82,8%</text>
 <text class="t1 mono" x="24" y="272">datos.magyp.gob.ar</text>
 <rect class="empty" x="340" y="262.0" width="6" height="12" rx="1.5"/>
 <rect class="empty" x="348" y="262.0" width="6" height="12" rx="1.5"/>
@@ -1117,8 +1117,8 @@ text{font-size:12px}.h1{font-size:16px;font-weight:600}.h2{font-size:12px;font-w
 <rect class="empty" x="1028" y="278.0" width="6" height="12" rx="1.5"/>
 <rect class="empty" x="1036" y="278.0" width="6" height="12" rx="1.5"/>
 <rect class="empty" x="1044" y="278.0" width="6" height="12" rx="1.5"/>
-<rect class="full" x="1052" y="278.0" width="6" height="12" rx="1.5"/>
-<text class="t2" x="1122" y="288" text-anchor="end">100%</text>
+<rect class="most" x="1052" y="278.0" width="6" height="12" rx="1.5"/>
+<text class="t2" x="1122" y="288" text-anchor="end">96,6%</text>
 <text class="t1 mono" x="24" y="304">datos.cultura.gob.ar</text>
 <rect class="empty" x="340" y="294.0" width="6" height="12" rx="1.5"/>
 <rect class="empty" x="348" y="294.0" width="6" height="12" rx="1.5"/>
@@ -2497,8 +2497,8 @@ text{font-size:12px}.h1{font-size:16px;font-weight:600}.h2{font-size:12px;font-w
 <rect class="empty" x="1028" y="518.0" width="6" height="12" rx="1.5"/>
 <rect class="empty" x="1036" y="518.0" width="6" height="12" rx="1.5"/>
 <rect class="empty" x="1044" y="518.0" width="6" height="12" rx="1.5"/>
-<rect class="full" x="1052" y="518.0" width="6" height="12" rx="1.5"/>
-<text class="t2" x="1122" y="528" text-anchor="end">100%</text>
+<rect class="most" x="1052" y="518.0" width="6" height="12" rx="1.5"/>
+<text class="t2" x="1122" y="528" text-anchor="end">96,6%</text>
 <text class="t1 h2" x="24" y="549">Provincias y municipios</text>
 <line class="rule" x1="24" x2="1122" y1="554.5" y2="554.5"/>
 <text class="t1 mono" x="24" y="570">data.buenosaires.gob.ar</text>
@@ -2867,8 +2867,8 @@ text{font-size:12px}.h1{font-size:16px;font-weight:600}.h2{font-size:12px;font-w
 <rect class="empty" x="1028" y="608.0" width="6" height="12" rx="1.5"/>
 <rect class="empty" x="1036" y="608.0" width="6" height="12" rx="1.5"/>
 <rect class="empty" x="1044" y="608.0" width="6" height="12" rx="1.5"/>
-<rect class="full" x="1052" y="608.0" width="6" height="12" rx="1.5"/>
-<text class="t2" x="1122" y="618" text-anchor="end">100%</text>
+<rect class="some" x="1052" y="608.0" width="6" height="12" rx="1.5"/>
+<text class="t2" x="1122" y="618" text-anchor="end">82,8%</text>
 <text class="t1 mono" x="24" y="634">datos.santafe.gob.ar</text>
 <rect class="empty" x="340" y="624.0" width="6" height="12" rx="1.5"/>
 <rect class="empty" x="348" y="624.0" width="6" height="12" rx="1.5"/>
@@ -3143,8 +3143,8 @@ text{font-size:12px}.h1{font-size:16px;font-weight:600}.h2{font-size:12px;font-w
 <rect class="empty" x="1028" y="656.0" width="6" height="12" rx="1.5"/>
 <rect class="empty" x="1036" y="656.0" width="6" height="12" rx="1.5"/>
 <rect class="empty" x="1044" y="656.0" width="6" height="12" rx="1.5"/>
-<rect class="full" x="1052" y="656.0" width="6" height="12" rx="1.5"/>
-<text class="t2" x="1122" y="666" text-anchor="end">100%</text>
+<rect class="most" x="1052" y="656.0" width="6" height="12" rx="1.5"/>
+<text class="t2" x="1122" y="666" text-anchor="end">96,6%</text>
 <text class="t1 mono" x="24" y="682">datosabiertos.mercedes.gob.ar</text>
 <rect class="empty" x="340" y="672.0" width="6" height="12" rx="1.5"/>
 <rect class="empty" x="348" y="672.0" width="6" height="12" rx="1.5"/>
