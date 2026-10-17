@@ -36,6 +36,7 @@
     {"time": "2026-10-17T14:30:01-03:00", "up": false, "status": null, "ms": 3, "error": "dns"},
     {"time": "2026-10-17T15:00:01-03:00", "up": false, "status": null, "ms": 4, "error": "dns"},
     {"time": "2026-10-17T15:30:01-03:00", "up": false, "status": null, "ms": 4, "error": "dns"},
-    {"time": "2026-10-17T16:00:01-03:00", "up": false, "status": null, "ms": 6, "error": "dns"}
+    {"time": "2026-10-17T16:00:01-03:00", "up": false, "status": null, "ms": 6, "error": "dns"},
+    {"time": "2026-10-17T16:30:01-03:00", "up": false, "status": null, "ms": 4, "error": "dns"}
   ]
 }
