@@ -27,6 +27,7 @@
     {"time": "2026-10-18T10:00:01-03:00", "up": false, "status": null, "ms": 5, "error": "connection refused"},
     {"time": "2026-10-18T10:30:01-03:00", "up": false, "status": null, "ms": 4, "error": "connection refused"},
     {"time": "2026-10-18T11:00:01-03:00", "up": false, "status": null, "ms": 5, "error": "connection refused"},
-    {"time": "2026-10-18T11:30:01-03:00", "up": false, "status": null, "ms": 4, "error": "connection refused"}
+    {"time": "2026-10-18T11:30:01-03:00", "up": false, "status": null, "ms": 4, "error": "connection refused"},
+    {"time": "2026-10-18T12:00:01-03:00", "up": false, "status": null, "ms": 4, "error": "connection refused"}
   ]
 }
