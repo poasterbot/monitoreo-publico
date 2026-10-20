@@ -1,0 +1,9 @@
+{
+  "id": "datos.mindef.gov.ar",
+  "url": "https://datos.mindef.gov.ar/",
+  "date": "2026-10-20",
+  "timezone": "America/Argentina/Buenos_Aires",
+  "checks": [
+    {"time": "2026-10-20T00:00:01-03:00", "up": false, "status": null, "ms": 128, "error": "connection reset", "tls_error": "tls: CERTIFICATE_VERIFY_FAILED"}
+  ]
+}
