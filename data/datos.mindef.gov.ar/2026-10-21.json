@@ -5,6 +5,7 @@
   "timezone": "America/Argentina/Buenos_Aires",
   "checks": [
     {"time": "2026-10-21T00:00:01-03:00", "up": false, "status": null, "ms": 123, "error": "connection reset", "tls_error": "tls: CERTIFICATE_VERIFY_FAILED"},
-    {"time": "2026-10-21T00:30:01-03:00", "up": false, "status": null, "ms": 124, "error": "connection reset", "tls_error": "tls: CERTIFICATE_VERIFY_FAILED"}
+    {"time": "2026-10-21T00:30:01-03:00", "up": false, "status": null, "ms": 124, "error": "connection reset", "tls_error": "tls: CERTIFICATE_VERIFY_FAILED"},
+    {"time": "2026-10-21T01:00:01-03:00", "up": false, "status": null, "ms": 130, "error": "connection reset", "tls_error": "tls: CERTIFICATE_VERIFY_FAILED"}
   ]
 }
