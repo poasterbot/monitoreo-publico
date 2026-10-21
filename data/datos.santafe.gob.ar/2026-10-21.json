@@ -1,0 +1,9 @@
+{
+  "id": "datos.santafe.gob.ar",
+  "url": "https://datos.santafe.gob.ar/",
+  "date": "2026-10-21",
+  "timezone": "America/Argentina/Buenos_Aires",
+  "checks": [
+    {"time": "2026-10-21T00:00:01-03:00", "up": false, "status": null, "ms": 61, "error": "invalid http response"}
+  ]
+}
