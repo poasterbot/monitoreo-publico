@@ -29,6 +29,7 @@
     {"time": "2026-10-23T11:00:01-03:00", "up": false, "status": null, "ms": 116, "error": "invalid http response"},
     {"time": "2026-10-23T11:30:01-03:00", "up": false, "status": null, "ms": 110, "error": "invalid http response"},
     {"time": "2026-10-23T12:00:01-03:00", "up": false, "status": null, "ms": 82, "error": "invalid http response"},
-    {"time": "2026-10-23T12:30:01-03:00", "up": false, "status": null, "ms": 100, "error": "invalid http response"}
+    {"time": "2026-10-23T12:30:01-03:00", "up": false, "status": null, "ms": 100, "error": "invalid http response"},
+    {"time": "2026-10-23T13:00:01-03:00", "up": false, "status": null, "ms": 97, "error": "invalid http response"}
   ]
 }
