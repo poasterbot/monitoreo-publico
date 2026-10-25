@@ -6,6 +6,7 @@
   "checks": [
     {"time": "2026-10-25T00:00:01-03:00", "up": false, "status": null, "ms": 153, "error": "invalid http response"},
     {"time": "2026-10-25T00:30:01-03:00", "up": false, "status": null, "ms": 113, "error": "invalid http response"},
-    {"time": "2026-10-25T01:00:01-03:00", "up": false, "status": null, "ms": 112, "error": "invalid http response"}
+    {"time": "2026-10-25T01:00:01-03:00", "up": false, "status": null, "ms": 112, "error": "invalid http response"},
+    {"time": "2026-10-25T01:30:01-03:00", "up": false, "status": null, "ms": 163, "error": "invalid http response"}
   ]
 }
