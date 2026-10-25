@@ -1,0 +1,9 @@
+{
+  "id": "datosabiertos.desarrollosocial.gob.ar",
+  "url": "https://datosabiertos.desarrollosocial.gob.ar/",
+  "date": "2026-10-25",
+  "timezone": "America/Argentina/Buenos_Aires",
+  "checks": [
+    {"time": "2026-10-25T00:00:01-03:00", "up": false, "status": null, "ms": 3, "error": "dns"}
+  ]
+}
