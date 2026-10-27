@@ -1,0 +1,9 @@
+{
+  "id": "datos-abiertos.mingeneros.gob.ar",
+  "url": "https://datos-abiertos.mingeneros.gob.ar/",
+  "date": "2026-10-27",
+  "timezone": "America/Argentina/Buenos_Aires",
+  "checks": [
+    {"time": "2026-10-27T00:00:01-03:00", "up": true, "status": 200, "ms": 165, "tls_error": "tls: CERTIFICATE_VERIFY_FAILED"}
+  ]
+}
