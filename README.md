@@ -12,20 +12,20 @@ este gráfico con los últimos 90 días.
 ## Estado
 
 <!-- uptime:start -->
-_Actualizado el 2026-10-25._
+_Actualizado el 2026-10-26._
 
 | Portal | Último chequeo | 7 días | 90 días |
 |---|---|--:|--:|
 | [datos.gob.ar](https://datos.gob.ar/) | 🟢 disponible | 100% | 100% |
-| [old.datos.gob.ar](https://old.datos.gob.ar/) | 🟢 disponible | 97,6% | 96,7% |
+| [old.datos.gob.ar](https://old.datos.gob.ar/) | 🟢 disponible | 100% | 97,1% |
 | [infra.datos.gob.ar](https://infra.datos.gob.ar/catalog/sspm/data.json) | 🟢 disponible | 100% | 100% |
 | [monitoreo.datos.gob.ar](https://monitoreo.datos.gob.ar/catalog/jgm/data.json) | 🟢 disponible | 100% | 100% |
-| [apis.datos.gob.ar/series](https://apis.datos.gob.ar/series/api/series/?ids=143.3_NO_PR_2004_A_21&limit=1) | 🟢 disponible | 99,4% | 99,3% |
+| [apis.datos.gob.ar/series](https://apis.datos.gob.ar/series/api/series/?ids=143.3_NO_PR_2004_A_21&limit=1) | 🟢 disponible | 97,6% | 97,8% |
 | [apis.datos.gob.ar/georef](https://apis.datos.gob.ar/georef/api/provincias?max=1) | 🟢 disponible | 100% | 100% |
-| [datos.produccion.gob.ar](https://datos.produccion.gob.ar/) | 🟢 disponible | 100% | 97,2% |
-| [datos.energia.gob.ar](http://datos.energia.gob.ar/) | 🟢 disponible | 100% | 97,8% |
-| [datos.salud.gob.ar](https://datos.salud.gob.ar/) | 🟢 disponible | 98,2% | 98,5% |
-| [datos.transporte.gob.ar](https://datos.transporte.gob.ar/) | 🟢 disponible | 100% | 97,8% |
+| [datos.produccion.gob.ar](https://datos.produccion.gob.ar/) | 🟢 disponible | 100% | 97,4% |
+| [datos.energia.gob.ar](http://datos.energia.gob.ar/) | 🟢 disponible | 100% | 98,0% |
+| [datos.salud.gob.ar](https://datos.salud.gob.ar/) | 🟢 disponible | 99,4% | 98,6% |
+| [datos.transporte.gob.ar](https://datos.transporte.gob.ar/) | 🟢 disponible | 100% | 98,0% |
 | [datos.magyp.gob.ar](https://datos.magyp.gob.ar/) | 🟢 disponible | 100% | 99,8% |
 | [datos.jus.gob.ar](https://datos.jus.gob.ar/) | 🟢 disponible | 100% | 99,8% |
 | [datos.cultura.gob.ar](https://datos.cultura.gob.ar/) | 🟢 disponible | 100% | 100% |
@@ -35,21 +35,21 @@ _Actualizado el 2026-10-25._
 | [datos.pami.org.ar](https://datos.pami.org.ar/) | 🟢 disponible | 100% | 100% |
 | [datos.acumar.gob.ar](https://datos.acumar.gob.ar/) | 🟢 disponible | 100% | 99,8% |
 | [datos.arsat.com.ar](https://datos.arsat.com.ar/) | 🟢 disponible | 100% | 100% |
-| [datasets.datos.mincyt.gob.ar](https://datasets.datos.mincyt.gob.ar/) | 🟢 disponible | 100% | 97,2% |
+| [datasets.datos.mincyt.gob.ar](https://datasets.datos.mincyt.gob.ar/) | 🟢 disponible | 100% | 97,4% |
 | [datosabiertos.ssn.gob.ar](https://datosabiertos.ssn.gob.ar/) | 🟢 disponible | 100% | 100% |
 | [datosabiertos.desarrollosocial.gob.ar](https://datosabiertos.desarrollosocial.gob.ar/) | 🔴 dns | 0% | 0% |
 | [datos-abiertos.mingeneros.gob.ar](https://datos-abiertos.mingeneros.gob.ar/) | 🟢 disponible | 100% | 100% |
-| [transparencia.enargas.gob.ar](https://transparencia.enargas.gob.ar/) | 🟢 disponible | 99,7% | 99,8% |
+| [transparencia.enargas.gob.ar](https://transparencia.enargas.gob.ar/) | 🟢 disponible | 100% | 99,8% |
 | [www.presupuestoabierto.gob.ar](https://www.presupuestoabierto.gob.ar/) | 🟢 disponible | 100% | 100% |
 | [datos.hcdn.gob.ar](https://datos.hcdn.gob.ar/) | 🟢 disponible | 99,4% | 99,6% |
-| [datos.csjn.gov.ar](https://datos.csjn.gov.ar/) | 🟢 disponible | 97,6% | 98,0% |
-| [data.buenosaires.gob.ar](https://data.buenosaires.gob.ar/) | 🟢 disponible | 92,6% | 90,2% |
+| [datos.csjn.gov.ar](https://datos.csjn.gov.ar/) | 🟢 disponible | 97,3% | 98,0% |
+| [data.buenosaires.gob.ar](https://data.buenosaires.gob.ar/) | 🟢 disponible | 93,2% | 89,8% |
 | [datos.legislatura.gob.ar](https://datos.legislatura.gob.ar/) | 🔴 connection refused | 0% | 0% |
 | [datos.tsjbaires.gov.ar](https://datos.tsjbaires.gov.ar/) | 🟢 disponible | 100% | 100% |
-| [portal.hcdiputados-ba.gov.ar](https://portal.hcdiputados-ba.gov.ar/) | 🟢 disponible | 92,9% | 93,7% |
+| [portal.hcdiputados-ba.gov.ar](https://portal.hcdiputados-ba.gov.ar/) | 🟢 disponible | 92,9% | 94,3% |
 | [datos.santafe.gob.ar](https://datos.santafe.gob.ar/) | 🔴 invalid http response | 0% | 0% |
-| [datosabiertos.chaco.gob.ar](https://datosabiertos.chaco.gob.ar/) | 🟢 disponible | 96,1% | 97,2% |
-| [ckan.ciudaddemendoza.gov.ar](https://ckan.ciudaddemendoza.gov.ar/) | 🟢 disponible | 99,7% | 99,3% |
+| [datosabiertos.chaco.gob.ar](https://datosabiertos.chaco.gob.ar/) | 🟢 disponible | 96,1% | 97,4% |
+| [ckan.ciudaddemendoza.gov.ar](https://ckan.ciudaddemendoza.gov.ar/) | 🟢 disponible | 99,7% | 99,4% |
 | [datosabiertos.mercedes.gob.ar](https://datosabiertos.mercedes.gob.ar/) | 🟢 disponible | 100% | 100% |
 | [luj-bue-datos.paisdigital.innovacion.gob.ar](http://luj-bue-datos.paisdigital.innovacion.gob.ar/) | 🟢 disponible | 100% | 100% |
 <!-- uptime:end -->
