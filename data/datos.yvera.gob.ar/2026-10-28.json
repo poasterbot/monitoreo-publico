@@ -28,6 +28,7 @@
     {"time": "2026-10-28T10:30:01-03:00", "up": false, "status": 502, "ms": 35, "error": "http 502"},
     {"time": "2026-10-28T11:00:01-03:00", "up": false, "status": 502, "ms": 29, "error": "http 502"},
     {"time": "2026-10-28T11:30:01-03:00", "up": false, "status": 502, "ms": 27, "error": "http 502"},
-    {"time": "2026-10-28T12:00:02-03:00", "up": false, "status": 502, "ms": 21, "error": "http 502"}
+    {"time": "2026-10-28T12:00:02-03:00", "up": false, "status": 502, "ms": 21, "error": "http 502"},
+    {"time": "2026-10-28T12:30:01-03:00", "up": false, "status": null, "ms": 8, "error": "dns"}
   ]
 }

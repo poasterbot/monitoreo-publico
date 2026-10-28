@@ -28,6 +28,7 @@
     {"time": "2026-10-28T10:30:01-03:00", "up": false, "status": null, "ms": 3, "error": "dns"},
     {"time": "2026-10-28T11:00:01-03:00", "up": false, "status": null, "ms": 17, "error": "dns"},
     {"time": "2026-10-28T11:30:01-03:00", "up": false, "status": null, "ms": 3, "error": "dns"},
-    {"time": "2026-10-28T12:00:02-03:00", "up": false, "status": null, "ms": 3, "error": "dns"}
+    {"time": "2026-10-28T12:00:02-03:00", "up": false, "status": null, "ms": 3, "error": "dns"},
+    {"time": "2026-10-28T12:30:01-03:00", "up": false, "status": null, "ms": 11, "error": "dns"}
   ]
 }
