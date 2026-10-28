@@ -50,6 +50,7 @@
     {"time": "2026-10-27T21:30:01-03:00", "up": false, "status": null, "ms": 4, "error": "dns"},
     {"time": "2026-10-27T22:00:01-03:00", "up": false, "status": null, "ms": 13, "error": "dns"},
     {"time": "2026-10-27T22:30:01-03:00", "up": false, "status": null, "ms": 4, "error": "dns"},
-    {"time": "2026-10-27T23:00:01-03:00", "up": false, "status": null, "ms": 4, "error": "dns"}
+    {"time": "2026-10-27T23:00:01-03:00", "up": false, "status": null, "ms": 4, "error": "dns"},
+    {"time": "2026-10-27T23:30:01-03:00", "up": false, "status": null, "ms": 4, "error": "dns"}
   ]
 }
