@@ -33,6 +33,7 @@
     {"time": "2026-10-29T13:00:01-03:00", "up": false, "status": null, "ms": 4, "error": "connection refused"},
     {"time": "2026-10-29T13:30:02-03:00", "up": false, "status": null, "ms": 6, "error": "connection refused"},
     {"time": "2026-10-29T14:00:01-03:00", "up": false, "status": null, "ms": 5, "error": "connection refused"},
-    {"time": "2026-10-29T14:30:01-03:00", "up": false, "status": null, "ms": 5, "error": "connection refused"}
+    {"time": "2026-10-29T14:30:01-03:00", "up": false, "status": null, "ms": 5, "error": "connection refused"},
+    {"time": "2026-10-29T15:00:01-03:00", "up": false, "status": null, "ms": 5, "error": "connection refused"}
   ]
 }
