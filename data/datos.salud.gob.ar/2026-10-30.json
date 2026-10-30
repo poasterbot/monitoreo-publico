@@ -29,6 +29,7 @@
     {"time": "2026-10-30T11:00:02-03:00", "up": true, "status": 200, "ms": 307, "tls_error": "tls: CERTIFICATE_VERIFY_FAILED"},
     {"time": "2026-10-30T11:30:01-03:00", "up": true, "status": 200, "ms": 338, "tls_error": "tls: CERTIFICATE_VERIFY_FAILED"},
     {"time": "2026-10-30T12:00:01-03:00", "up": true, "status": 200, "ms": 311, "tls_error": "tls: CERTIFICATE_VERIFY_FAILED"},
-    {"time": "2026-10-30T12:30:01-03:00", "up": true, "status": 200, "ms": 339, "tls_error": "tls: CERTIFICATE_VERIFY_FAILED"}
+    {"time": "2026-10-30T12:30:01-03:00", "up": true, "status": 200, "ms": 339, "tls_error": "tls: CERTIFICATE_VERIFY_FAILED"},
+    {"time": "2026-10-30T13:00:01-03:00", "up": true, "status": 200, "ms": 497, "tls_error": "tls: CERTIFICATE_VERIFY_FAILED"}
   ]
 }
