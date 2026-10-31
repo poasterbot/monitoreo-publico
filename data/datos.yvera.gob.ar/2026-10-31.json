@@ -6,6 +6,7 @@
   "checks": [
     {"time": "2026-10-31T00:00:01-03:00", "up": false, "status": 403, "ms": 59, "error": "http 403"},
     {"time": "2026-10-31T00:30:01-03:00", "up": false, "status": 403, "ms": 48, "error": "http 403"},
-    {"time": "2026-10-31T01:00:01-03:00", "up": false, "status": 403, "ms": 37, "error": "http 403"}
+    {"time": "2026-10-31T01:00:01-03:00", "up": false, "status": 403, "ms": 37, "error": "http 403"},
+    {"time": "2026-10-31T01:30:01-03:00", "up": false, "status": 403, "ms": 46, "error": "http 403"}
   ]
 }
