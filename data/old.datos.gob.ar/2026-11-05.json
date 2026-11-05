@@ -6,6 +6,7 @@
   "checks": [
     {"time": "2026-11-05T00:00:01-03:00", "up": false, "status": 500, "ms": 81, "error": "http 500"},
     {"time": "2026-11-05T00:30:01-03:00", "up": false, "status": null, "ms": 30040, "error": "timeout"},
-    {"time": "2026-11-05T01:00:01-03:00", "up": false, "status": 502, "ms": 59, "error": "http 502"}
+    {"time": "2026-11-05T01:00:01-03:00", "up": false, "status": 502, "ms": 59, "error": "http 502"},
+    {"time": "2026-11-05T01:30:01-03:00", "up": false, "status": 500, "ms": 23, "error": "http 500"}
   ]
 }
