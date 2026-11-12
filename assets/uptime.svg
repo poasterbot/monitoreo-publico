@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1146" height="768" viewBox="0 0 1146 768" role="img" aria-labelledby="t d" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif">
 <title id="t">Disponibilidad de portales de datos abiertos de Argentina</title>
-<desc id="d">Porcentaje diario de chequeos exitosos por portal, últimos 90 días hasta el 2026-11-10.</desc>
+<desc id="d">Porcentaje diario de chequeos exitosos por portal, últimos 90 días hasta el 2026-11-11.</desc>
 <style>
 .bg{fill:#fcfcfb}.t1{fill:#0b0b0b}.t2{fill:#52514e}.rule{stroke:#e4e3df}
 .full{fill:#0ca30c}.most{fill:#fab219}.some{fill:#ec835a}.none{fill:#d03b3b}.empty{fill:#e4e3df}
@@ -11,7 +11,7 @@ text{font-size:12px}.h1{font-size:16px;font-weight:600}.h2{font-size:12px;font-w
 </style>
 <rect class="bg" width="1146" height="768" rx="8"/>
 <text class="t1 h1" x="24" y="36">Disponibilidad de portales de datos abiertos de Argentina</text>
-<text class="t2" x="24" y="56">Porcentaje de chequeos exitosos por día (cada 30 min), últimos 90 días · hasta el 10 nov 2026</text>
+<text class="t2" x="24" y="56">Porcentaje de chequeos exitosos por día (cada 30 min), últimos 90 días · hasta el 11 nov 2026</text>
 <text class="t2" x="1122" y="68" text-anchor="end">90 días</text>
 <text class="t1 h2" x="24" y="91">Nacional</text>
 <line class="rule" x1="24" x2="1122" y1="96.5" y2="96.5"/>
@@ -79,7 +79,7 @@ text{font-size:12px}.h1{font-size:16px;font-weight:600}.h2{font-size:12px;font-w
 <rect class="empty" x="820" y="102.0" width="6" height="12" rx="1.5"/>
 <rect class="empty" x="828" y="102.0" width="6" height="12" rx="1.5"/>
 <rect class="empty" x="836" y="102.0" width="6" height="12" rx="1.5"/>
-<rect class="empty" x="844" y="102.0" width="6" height="12" rx="1.5"/>
+<rect class="full" x="844" y="102.0" width="6" height="12" rx="1.5"/>
 <rect class="full" x="852" y="102.0" width="6" height="12" rx="1.5"/>
 <rect class="full" x="860" y="102.0" width="6" height="12" rx="1.5"/>
 <rect class="full" x="868" y="102.0" width="6" height="12" rx="1.5"/>
@@ -91,9 +91,9 @@ text{font-size:12px}.h1{font-size:16px;font-weight:600}.h2{font-size:12px;font-w
 <rect class="full" x="916" y="102.0" width="6" height="12" rx="1.5"/>
 <rect class="full" x="924" y="102.0" width="6" height="12" rx="1.5"/>
 <rect class="full" x="932" y="102.0" width="6" height="12" rx="1.5"/>
-<rect class="full" x="940" y="102.0" width="6" height="12" rx="1.5"/>
+<rect class="most" x="940" y="102.0" width="6" height="12" rx="1.5"/>
 <rect class="most" x="948" y="102.0" width="6" height="12" rx="1.5"/>
-<rect class="most" x="956" y="102.0" width="6" height="12" rx="1.5"/>
+<rect class="full" x="956" y="102.0" width="6" height="12" rx="1.5"/>
 <rect class="full" x="964" y="102.0" width="6" height="12" rx="1.5"/>
 <rect class="full" x="972" y="102.0" width="6" height="12" rx="1.5"/>
 <rect class="full" x="980" y="102.0" width="6" height="12" rx="1.5"/>
@@ -171,11 +171,11 @@ text{font-size:12px}.h1{font-size:16px;font-weight:600}.h2{font-size:12px;font-w
 <rect class="empty" x="820" y="118.0" width="6" height="12" rx="1.5"/>
 <rect class="empty" x="828" y="118.0" width="6" height="12" rx="1.5"/>
 <rect class="empty" x="836" y="118.0" width="6" height="12" rx="1.5"/>
-<rect class="empty" x="844" y="118.0" width="6" height="12" rx="1.5"/>
+<rect class="full" x="844" y="118.0" width="6" height="12" rx="1.5"/>
 <rect class="full" x="852" y="118.0" width="6" height="12" rx="1.5"/>
-<rect class="full" x="860" y="118.0" width="6" height="12" rx="1.5"/>
+<rect class="some" x="860" y="118.0" width="6" height="12" rx="1.5"/>
 <rect class="some" x="868" y="118.0" width="6" height="12" rx="1.5"/>
-<rect class="some" x="876" y="118.0" width="6" height="12" rx="1.5"/>
+<rect class="full" x="876" y="118.0" width="6" height="12" rx="1.5"/>
 <rect class="full" x="884" y="118.0" width="6" height="12" rx="1.5"/>
 <rect class="full" x="892" y="118.0" width="6" height="12" rx="1.5"/>
 <rect class="full" x="900" y="118.0" width="6" height="12" rx="1.5"/>
@@ -184,7 +184,7 @@ text{font-size:12px}.h1{font-size:16px;font-weight:600}.h2{font-size:12px;font-w
 <rect class="full" x="924" y="118.0" width="6" height="12" rx="1.5"/>
 <rect class="full" x="932" y="118.0" width="6" height="12" rx="1.5"/>
 <rect class="full" x="940" y="118.0" width="6" height="12" rx="1.5"/>
-<rect class="full" x="948" y="118.0" width="6" height="12" rx="1.5"/>
+<rect class="some" x="948" y="118.0" width="6" height="12" rx="1.5"/>
 <rect class="some" x="956" y="118.0" width="6" height="12" rx="1.5"/>
 <rect class="some" x="964" y="118.0" width="6" height="12" rx="1.5"/>
 <rect class="some" x="972" y="118.0" width="6" height="12" rx="1.5"/>
@@ -198,7 +198,7 @@ text{font-size:12px}.h1{font-size:16px;font-weight:600}.h2{font-size:12px;font-w
 <rect class="some" x="1036" y="118.0" width="6" height="12" rx="1.5"/>
 <rect class="some" x="1044" y="118.0" width="6" height="12" rx="1.5"/>
 <rect class="some" x="1052" y="118.0" width="6" height="12" rx="1.5"/>
-<text class="t2" x="1122" y="128" text-anchor="end">68,2%</text>
+<text class="t2" x="1122" y="128" text-anchor="end">66,1%</text>
 <text class="t1 mono" x="24" y="144">infra.datos.gob.ar</text>
 <rect class="empty" x="340" y="134.0" width="6" height="12" rx="1.5"/>
 <rect class="empty" x="348" y="134.0" width="6" height="12" rx="1.5"/>
@@ -263,7 +263,7 @@ text{font-size:12px}.h1{font-size:16px;font-weight:600}.h2{font-size:12px;font-w
 <rect class="empty" x="820" y="134.0" width="6" height="12" rx="1.5"/>
 <rect class="empty" x="828" y="134.0" width="6" height="12" rx="1.5"/>
 <rect class="empty" x="836" y="134.0" width="6" height="12" rx="1.5"/>
-<rect class="empty" x="844" y="134.0" width="6" height="12" rx="1.5"/>
+<rect class="full" x="844" y="134.0" width="6" height="12" rx="1.5"/>
 <rect class="full" x="852" y="134.0" width="6" height="12" rx="1.5"/>
 <rect class="full" x="860" y="134.0" width="6" height="12" rx="1.5"/>
 <rect class="full" x="868" y="134.0" width="6" height="12" rx="1.5"/>
@@ -355,7 +355,7 @@ text{font-size:12px}.h1{font-size:16px;font-weight:600}.h2{font-size:12px;font-w
 <rect class="empty" x="820" y="150.0" width="6" height="12" rx="1.5"/>
 <rect class="empty" x="828" y="150.0" width="6" height="12" rx="1.5"/>
 <rect class="empty" x="836" y="150.0" width="6" height="12" rx="1.5"/>
-<rect class="empty" x="844" y="150.0" width="6" height="12" rx="1.5"/>
+<rect class="full" x="844" y="150.0" width="6" height="12" rx="1.5"/>
 <rect class="full" x="852" y="150.0" width="6" height="12" rx="1.5"/>
 <rect class="full" x="860" y="150.0" width="6" height="12" rx="1.5"/>
 <rect class="full" x="868" y="150.0" width="6" height="12" rx="1.5"/>
@@ -447,18 +447,18 @@ text{font-size:12px}.h1{font-size:16px;font-weight:600}.h2{font-size:12px;font-w
 <rect class="empty" x="820" y="166.0" width="6" height="12" rx="1.5"/>
 <rect class="empty" x="828" y="166.0" width="6" height="12" rx="1.5"/>
 <rect class="empty" x="836" y="166.0" width="6" height="12" rx="1.5"/>
-<rect class="empty" x="844" y="166.0" width="6" height="12" rx="1.5"/>
+<rect class="full" x="844" y="166.0" width="6" height="12" rx="1.5"/>
 <rect class="full" x="852" y="166.0" width="6" height="12" rx="1.5"/>
-<rect class="full" x="860" y="166.0" width="6" height="12" rx="1.5"/>
+<rect class="most" x="860" y="166.0" width="6" height="12" rx="1.5"/>
 <rect class="most" x="868" y="166.0" width="6" height="12" rx="1.5"/>
-<rect class="most" x="876" y="166.0" width="6" height="12" rx="1.5"/>
+<rect class="full" x="876" y="166.0" width="6" height="12" rx="1.5"/>
 <rect class="full" x="884" y="166.0" width="6" height="12" rx="1.5"/>
 <rect class="full" x="892" y="166.0" width="6" height="12" rx="1.5"/>
 <rect class="full" x="900" y="166.0" width="6" height="12" rx="1.5"/>
 <rect class="full" x="908" y="166.0" width="6" height="12" rx="1.5"/>
 <rect class="full" x="916" y="166.0" width="6" height="12" rx="1.5"/>
-<rect class="full" x="924" y="166.0" width="6" height="12" rx="1.5"/>
-<rect class="some" x="932" y="166.0" width="6" height="12" rx="1.5"/>
+<rect class="some" x="924" y="166.0" width="6" height="12" rx="1.5"/>
+<rect class="full" x="932" y="166.0" width="6" height="12" rx="1.5"/>
 <rect class="full" x="940" y="166.0" width="6" height="12" rx="1.5"/>
 <rect class="full" x="948" y="166.0" width="6" height="12" rx="1.5"/>
 <rect class="full" x="956" y="166.0" width="6" height="12" rx="1.5"/>
@@ -539,7 +539,7 @@ text{font-size:12px}.h1{font-size:16px;font-weight:600}.h2{font-size:12px;font-w
 <rect class="empty" x="820" y="182.0" width="6" height="12" rx="1.5"/>
 <rect class="empty" x="828" y="182.0" width="6" height="12" rx="1.5"/>
 <rect class="empty" x="836" y="182.0" width="6" height="12" rx="1.5"/>
-<rect class="empty" x="844" y="182.0" width="6" height="12" rx="1.5"/>
+<rect class="full" x="844" y="182.0" width="6" height="12" rx="1.5"/>
 <rect class="full" x="852" y="182.0" width="6" height="12" rx="1.5"/>
 <rect class="full" x="860" y="182.0" width="6" height="12" rx="1.5"/>
 <rect class="full" x="868" y="182.0" width="6" height="12" rx="1.5"/>
@@ -631,8 +631,8 @@ text{font-size:12px}.h1{font-size:16px;font-weight:600}.h2{font-size:12px;font-w
 <rect class="empty" x="820" y="198.0" width="6" height="12" rx="1.5"/>
 <rect class="empty" x="828" y="198.0" width="6" height="12" rx="1.5"/>
 <rect class="empty" x="836" y="198.0" width="6" height="12" rx="1.5"/>
-<rect class="empty" x="844" y="198.0" width="6" height="12" rx="1.5"/>
-<rect class="some" x="852" y="198.0" width="6" height="12" rx="1.5"/>
+<rect class="some" x="844" y="198.0" width="6" height="12" rx="1.5"/>
+<rect class="full" x="852" y="198.0" width="6" height="12" rx="1.5"/>
 <rect class="full" x="860" y="198.0" width="6" height="12" rx="1.5"/>
 <rect class="full" x="868" y="198.0" width="6" height="12" rx="1.5"/>
 <rect class="full" x="876" y="198.0" width="6" height="12" rx="1.5"/>
@@ -658,7 +658,7 @@ text{font-size:12px}.h1{font-size:16px;font-weight:600}.h2{font-size:12px;font-w
 <rect class="full" x="1036" y="198.0" width="6" height="12" rx="1.5"/>
 <rect class="full" x="1044" y="198.0" width="6" height="12" rx="1.5"/>
 <rect class="full" x="1052" y="198.0" width="6" height="12" rx="1.5"/>
-<text class="t2" x="1122" y="208" text-anchor="end">98,9%</text>
+<text class="t2" x="1122" y="208" text-anchor="end">99,0%</text>
 <text class="t1 mono" x="24" y="224">datos.energia.gob.ar</text>
 <rect class="empty" x="340" y="214.0" width="6" height="12" rx="1.5"/>
 <rect class="empty" x="348" y="214.0" width="6" height="12" rx="1.5"/>
@@ -723,8 +723,8 @@ text{font-size:12px}.h1{font-size:16px;font-weight:600}.h2{font-size:12px;font-w
 <rect class="empty" x="820" y="214.0" width="6" height="12" rx="1.5"/>
 <rect class="empty" x="828" y="214.0" width="6" height="12" rx="1.5"/>
 <rect class="empty" x="836" y="214.0" width="6" height="12" rx="1.5"/>
-<rect class="empty" x="844" y="214.0" width="6" height="12" rx="1.5"/>
-<rect class="some" x="852" y="214.0" width="6" height="12" rx="1.5"/>
+<rect class="some" x="844" y="214.0" width="6" height="12" rx="1.5"/>
+<rect class="full" x="852" y="214.0" width="6" height="12" rx="1.5"/>
 <rect class="full" x="860" y="214.0" width="6" height="12" rx="1.5"/>
 <rect class="full" x="868" y="214.0" width="6" height="12" rx="1.5"/>
 <rect class="full" x="876" y="214.0" width="6" height="12" rx="1.5"/>
@@ -815,13 +815,13 @@ text{font-size:12px}.h1{font-size:16px;font-weight:600}.h2{font-size:12px;font-w
 <rect class="empty" x="820" y="230.0" width="6" height="12" rx="1.5"/>
 <rect class="empty" x="828" y="230.0" width="6" height="12" rx="1.5"/>
 <rect class="empty" x="836" y="230.0" width="6" height="12" rx="1.5"/>
-<rect class="empty" x="844" y="230.0" width="6" height="12" rx="1.5"/>
-<rect class="full" x="852" y="230.0" width="6" height="12" rx="1.5"/>
-<rect class="most" x="860" y="230.0" width="6" height="12" rx="1.5"/>
-<rect class="full" x="868" y="230.0" width="6" height="12" rx="1.5"/>
-<rect class="most" x="876" y="230.0" width="6" height="12" rx="1.5"/>
-<rect class="full" x="884" y="230.0" width="6" height="12" rx="1.5"/>
-<rect class="most" x="892" y="230.0" width="6" height="12" rx="1.5"/>
+<rect class="full" x="844" y="230.0" width="6" height="12" rx="1.5"/>
+<rect class="most" x="852" y="230.0" width="6" height="12" rx="1.5"/>
+<rect class="full" x="860" y="230.0" width="6" height="12" rx="1.5"/>
+<rect class="most" x="868" y="230.0" width="6" height="12" rx="1.5"/>
+<rect class="full" x="876" y="230.0" width="6" height="12" rx="1.5"/>
+<rect class="most" x="884" y="230.0" width="6" height="12" rx="1.5"/>
+<rect class="full" x="892" y="230.0" width="6" height="12" rx="1.5"/>
 <rect class="full" x="900" y="230.0" width="6" height="12" rx="1.5"/>
 <rect class="full" x="908" y="230.0" width="6" height="12" rx="1.5"/>
 <rect class="full" x="916" y="230.0" width="6" height="12" rx="1.5"/>
@@ -842,7 +842,7 @@ text{font-size:12px}.h1{font-size:16px;font-weight:600}.h2{font-size:12px;font-w
 <rect class="full" x="1036" y="230.0" width="6" height="12" rx="1.5"/>
 <rect class="full" x="1044" y="230.0" width="6" height="12" rx="1.5"/>
 <rect class="full" x="1052" y="230.0" width="6" height="12" rx="1.5"/>
-<text class="t2" x="1122" y="240" text-anchor="end">99,4%</text>
+<text class="t2" x="1122" y="240" text-anchor="end">99,5%</text>
 <text class="t1 mono" x="24" y="256">datos.transporte.gob.ar</text>
 <rect class="empty" x="340" y="246.0" width="6" height="12" rx="1.5"/>
 <rect class="empty" x="348" y="246.0" width="6" height="12" rx="1.5"/>
@@ -907,9 +907,9 @@ text{font-size:12px}.h1{font-size:16px;font-weight:600}.h2{font-size:12px;font-w
 <rect class="empty" x="820" y="246.0" width="6" height="12" rx="1.5"/>
 <rect class="empty" x="828" y="246.0" width="6" height="12" rx="1.5"/>
 <rect class="empty" x="836" y="246.0" width="6" height="12" rx="1.5"/>
-<rect class="empty" x="844" y="246.0" width="6" height="12" rx="1.5"/>
+<rect class="some" x="844" y="246.0" width="6" height="12" rx="1.5"/>
 <rect class="some" x="852" y="246.0" width="6" height="12" rx="1.5"/>
-<rect class="some" x="860" y="246.0" width="6" height="12" rx="1.5"/>
+<rect class="full" x="860" y="246.0" width="6" height="12" rx="1.5"/>
 <rect class="full" x="868" y="246.0" width="6" height="12" rx="1.5"/>
 <rect class="full" x="876" y="246.0" width="6" height="12" rx="1.5"/>
 <rect class="full" x="884" y="246.0" width="6" height="12" rx="1.5"/>
@@ -999,10 +999,10 @@ text{font-size:12px}.h1{font-size:16px;font-weight:600}.h2{font-size:12px;font-w
 <rect class="empty" x="820" y="262.0" width="6" height="12" rx="1.5"/>
 <rect class="empty" x="828" y="262.0" width="6" height="12" rx="1.5"/>
 <rect class="empty" x="836" y="262.0" width="6" height="12" rx="1.5"/>
-<rect class="empty" x="844" y="262.0" width="6" height="12" rx="1.5"/>
+<rect class="full" x="844" y="262.0" width="6" height="12" rx="1.5"/>
 <rect class="full" x="852" y="262.0" width="6" height="12" rx="1.5"/>
-<rect class="full" x="860" y="262.0" width="6" height="12" rx="1.5"/>
-<rect class="most" x="868" y="262.0" width="6" height="12" rx="1.5"/>
+<rect class="most" x="860" y="262.0" width="6" height="12" rx="1.5"/>
+<rect class="full" x="868" y="262.0" width="6" height="12" rx="1.5"/>
 <rect class="full" x="876" y="262.0" width="6" height="12" rx="1.5"/>
 <rect class="full" x="884" y="262.0" width="6" height="12" rx="1.5"/>
 <rect class="full" x="892" y="262.0" width="6" height="12" rx="1.5"/>
@@ -1091,8 +1091,8 @@ text{font-size:12px}.h1{font-size:16px;font-weight:600}.h2{font-size:12px;font-w
 <rect class="empty" x="820" y="278.0" width="6" height="12" rx="1.5"/>
 <rect class="empty" x="828" y="278.0" width="6" height="12" rx="1.5"/>
 <rect class="empty" x="836" y="278.0" width="6" height="12" rx="1.5"/>
-<rect class="empty" x="844" y="278.0" width="6" height="12" rx="1.5"/>
-<rect class="most" x="852" y="278.0" width="6" height="12" rx="1.5"/>
+<rect class="most" x="844" y="278.0" width="6" height="12" rx="1.5"/>
+<rect class="full" x="852" y="278.0" width="6" height="12" rx="1.5"/>
 <rect class="full" x="860" y="278.0" width="6" height="12" rx="1.5"/>
 <rect class="full" x="868" y="278.0" width="6" height="12" rx="1.5"/>
 <rect class="full" x="876" y="278.0" width="6" height="12" rx="1.5"/>
@@ -1116,8 +1116,8 @@ text{font-size:12px}.h1{font-size:16px;font-weight:600}.h2{font-size:12px;font-w
 <rect class="full" x="1020" y="278.0" width="6" height="12" rx="1.5"/>
 <rect class="full" x="1028" y="278.0" width="6" height="12" rx="1.5"/>
 <rect class="full" x="1036" y="278.0" width="6" height="12" rx="1.5"/>
-<rect class="full" x="1044" y="278.0" width="6" height="12" rx="1.5"/>
-<rect class="most" x="1052" y="278.0" width="6" height="12" rx="1.5"/>
+<rect class="most" x="1044" y="278.0" width="6" height="12" rx="1.5"/>
+<rect class="full" x="1052" y="278.0" width="6" height="12" rx="1.5"/>
 <text class="t2" x="1122" y="288" text-anchor="end">99,8%</text>
 <text class="t1 mono" x="24" y="304">datos.cultura.gob.ar</text>
 <rect class="empty" x="340" y="294.0" width="6" height="12" rx="1.5"/>
@@ -1183,7 +1183,7 @@ text{font-size:12px}.h1{font-size:16px;font-weight:600}.h2{font-size:12px;font-w
 <rect class="empty" x="820" y="294.0" width="6" height="12" rx="1.5"/>
 <rect class="empty" x="828" y="294.0" width="6" height="12" rx="1.5"/>
 <rect class="empty" x="836" y="294.0" width="6" height="12" rx="1.5"/>
-<rect class="empty" x="844" y="294.0" width="6" height="12" rx="1.5"/>
+<rect class="full" x="844" y="294.0" width="6" height="12" rx="1.5"/>
 <rect class="full" x="852" y="294.0" width="6" height="12" rx="1.5"/>
 <rect class="full" x="860" y="294.0" width="6" height="12" rx="1.5"/>
 <rect class="full" x="868" y="294.0" width="6" height="12" rx="1.5"/>
@@ -1275,7 +1275,7 @@ text{font-size:12px}.h1{font-size:16px;font-weight:600}.h2{font-size:12px;font-w
 <rect class="empty" x="820" y="310.0" width="6" height="12" rx="1.5"/>
 <rect class="empty" x="828" y="310.0" width="6" height="12" rx="1.5"/>
 <rect class="empty" x="836" y="310.0" width="6" height="12" rx="1.5"/>
-<rect class="empty" x="844" y="310.0" width="6" height="12" rx="1.5"/>
+<rect class="full" x="844" y="310.0" width="6" height="12" rx="1.5"/>
 <rect class="full" x="852" y="310.0" width="6" height="12" rx="1.5"/>
 <rect class="full" x="860" y="310.0" width="6" height="12" rx="1.5"/>
 <rect class="full" x="868" y="310.0" width="6" height="12" rx="1.5"/>
@@ -1286,8 +1286,8 @@ text{font-size:12px}.h1{font-size:16px;font-weight:600}.h2{font-size:12px;font-w
 <rect class="full" x="908" y="310.0" width="6" height="12" rx="1.5"/>
 <rect class="full" x="916" y="310.0" width="6" height="12" rx="1.5"/>
 <rect class="full" x="924" y="310.0" width="6" height="12" rx="1.5"/>
-<rect class="full" x="932" y="310.0" width="6" height="12" rx="1.5"/>
-<rect class="some" x="940" y="310.0" width="6" height="12" rx="1.5"/>
+<rect class="some" x="932" y="310.0" width="6" height="12" rx="1.5"/>
+<rect class="none" x="940" y="310.0" width="6" height="12" rx="1.5"/>
 <rect class="none" x="948" y="310.0" width="6" height="12" rx="1.5"/>
 <rect class="none" x="956" y="310.0" width="6" height="12" rx="1.5"/>
 <rect class="none" x="964" y="310.0" width="6" height="12" rx="1.5"/>
@@ -1302,7 +1302,7 @@ text{font-size:12px}.h1{font-size:16px;font-weight:600}.h2{font-size:12px;font-w
 <rect class="none" x="1036" y="310.0" width="6" height="12" rx="1.5"/>
 <rect class="none" x="1044" y="310.0" width="6" height="12" rx="1.5"/>
 <rect class="none" x="1052" y="310.0" width="6" height="12" rx="1.5"/>
-<text class="t2" x="1122" y="320" text-anchor="end">43,0%</text>
+<text class="t2" x="1122" y="320" text-anchor="end">41,3%</text>
 <text class="t1 mono" x="24" y="336">datos.mininterior.gob.ar</text>
 <rect class="empty" x="340" y="326.0" width="6" height="12" rx="1.5"/>
 <rect class="empty" x="348" y="326.0" width="6" height="12" rx="1.5"/>
@@ -1367,7 +1367,7 @@ text{font-size:12px}.h1{font-size:16px;font-weight:600}.h2{font-size:12px;font-w
 <rect class="empty" x="820" y="326.0" width="6" height="12" rx="1.5"/>
 <rect class="empty" x="828" y="326.0" width="6" height="12" rx="1.5"/>
 <rect class="empty" x="836" y="326.0" width="6" height="12" rx="1.5"/>
-<rect class="empty" x="844" y="326.0" width="6" height="12" rx="1.5"/>
+<rect class="full" x="844" y="326.0" width="6" height="12" rx="1.5"/>
 <rect class="full" x="852" y="326.0" width="6" height="12" rx="1.5"/>
 <rect class="full" x="860" y="326.0" width="6" height="12" rx="1.5"/>
 <rect class="full" x="868" y="326.0" width="6" height="12" rx="1.5"/>
@@ -1389,8 +1389,8 @@ text{font-size:12px}.h1{font-size:16px;font-weight:600}.h2{font-size:12px;font-w
 <rect class="full" x="996" y="326.0" width="6" height="12" rx="1.5"/>
 <rect class="full" x="1004" y="326.0" width="6" height="12" rx="1.5"/>
 <rect class="full" x="1012" y="326.0" width="6" height="12" rx="1.5"/>
-<rect class="full" x="1020" y="326.0" width="6" height="12" rx="1.5"/>
-<rect class="most" x="1028" y="326.0" width="6" height="12" rx="1.5"/>
+<rect class="most" x="1020" y="326.0" width="6" height="12" rx="1.5"/>
+<rect class="full" x="1028" y="326.0" width="6" height="12" rx="1.5"/>
 <rect class="full" x="1036" y="326.0" width="6" height="12" rx="1.5"/>
 <rect class="full" x="1044" y="326.0" width="6" height="12" rx="1.5"/>
 <rect class="full" x="1052" y="326.0" width="6" height="12" rx="1.5"/>
@@ -1459,7 +1459,7 @@ text{font-size:12px}.h1{font-size:16px;font-weight:600}.h2{font-size:12px;font-w
 <rect class="empty" x="820" y="342.0" width="6" height="12" rx="1.5"/>
 <rect class="empty" x="828" y="342.0" width="6" height="12" rx="1.5"/>
 <rect class="empty" x="836" y="342.0" width="6" height="12" rx="1.5"/>
-<rect class="empty" x="844" y="342.0" width="6" height="12" rx="1.5"/>
+<rect class="none" x="844" y="342.0" width="6" height="12" rx="1.5"/>
 <rect class="none" x="852" y="342.0" width="6" height="12" rx="1.5"/>
 <rect class="none" x="860" y="342.0" width="6" height="12" rx="1.5"/>
 <rect class="none" x="868" y="342.0" width="6" height="12" rx="1.5"/>
@@ -1551,7 +1551,7 @@ text{font-size:12px}.h1{font-size:16px;font-weight:600}.h2{font-size:12px;font-w
 <rect class="empty" x="820" y="358.0" width="6" height="12" rx="1.5"/>
 <rect class="empty" x="828" y="358.0" width="6" height="12" rx="1.5"/>
 <rect class="empty" x="836" y="358.0" width="6" height="12" rx="1.5"/>
-<rect class="empty" x="844" y="358.0" width="6" height="12" rx="1.5"/>
+<rect class="full" x="844" y="358.0" width="6" height="12" rx="1.5"/>
 <rect class="full" x="852" y="358.0" width="6" height="12" rx="1.5"/>
 <rect class="full" x="860" y="358.0" width="6" height="12" rx="1.5"/>
 <rect class="full" x="868" y="358.0" width="6" height="12" rx="1.5"/>
@@ -1564,8 +1564,8 @@ text{font-size:12px}.h1{font-size:16px;font-weight:600}.h2{font-size:12px;font-w
 <rect class="full" x="924" y="358.0" width="6" height="12" rx="1.5"/>
 <rect class="full" x="932" y="358.0" width="6" height="12" rx="1.5"/>
 <rect class="full" x="940" y="358.0" width="6" height="12" rx="1.5"/>
-<rect class="full" x="948" y="358.0" width="6" height="12" rx="1.5"/>
-<rect class="some" x="956" y="358.0" width="6" height="12" rx="1.5"/>
+<rect class="some" x="948" y="358.0" width="6" height="12" rx="1.5"/>
+<rect class="full" x="956" y="358.0" width="6" height="12" rx="1.5"/>
 <rect class="full" x="964" y="358.0" width="6" height="12" rx="1.5"/>
 <rect class="full" x="972" y="358.0" width="6" height="12" rx="1.5"/>
 <rect class="full" x="980" y="358.0" width="6" height="12" rx="1.5"/>
@@ -1573,12 +1573,12 @@ text{font-size:12px}.h1{font-size:16px;font-weight:600}.h2{font-size:12px;font-w
 <rect class="full" x="996" y="358.0" width="6" height="12" rx="1.5"/>
 <rect class="full" x="1004" y="358.0" width="6" height="12" rx="1.5"/>
 <rect class="full" x="1012" y="358.0" width="6" height="12" rx="1.5"/>
-<rect class="full" x="1020" y="358.0" width="6" height="12" rx="1.5"/>
-<rect class="most" x="1028" y="358.0" width="6" height="12" rx="1.5"/>
+<rect class="most" x="1020" y="358.0" width="6" height="12" rx="1.5"/>
+<rect class="full" x="1028" y="358.0" width="6" height="12" rx="1.5"/>
 <rect class="full" x="1036" y="358.0" width="6" height="12" rx="1.5"/>
 <rect class="full" x="1044" y="358.0" width="6" height="12" rx="1.5"/>
 <rect class="full" x="1052" y="358.0" width="6" height="12" rx="1.5"/>
-<text class="t2" x="1122" y="368" text-anchor="end">98,6%</text>
+<text class="t2" x="1122" y="368" text-anchor="end">98,7%</text>
 <text class="t1 mono" x="24" y="384">datos.acumar.gob.ar</text>
 <rect class="empty" x="340" y="374.0" width="6" height="12" rx="1.5"/>
 <rect class="empty" x="348" y="374.0" width="6" height="12" rx="1.5"/>
@@ -1643,9 +1643,9 @@ text{font-size:12px}.h1{font-size:16px;font-weight:600}.h2{font-size:12px;font-w
 <rect class="empty" x="820" y="374.0" width="6" height="12" rx="1.5"/>
 <rect class="empty" x="828" y="374.0" width="6" height="12" rx="1.5"/>
 <rect class="empty" x="836" y="374.0" width="6" height="12" rx="1.5"/>
-<rect class="empty" x="844" y="374.0" width="6" height="12" rx="1.5"/>
-<rect class="full" x="852" y="374.0" width="6" height="12" rx="1.5"/>
-<rect class="most" x="860" y="374.0" width="6" height="12" rx="1.5"/>
+<rect class="full" x="844" y="374.0" width="6" height="12" rx="1.5"/>
+<rect class="most" x="852" y="374.0" width="6" height="12" rx="1.5"/>
+<rect class="full" x="860" y="374.0" width="6" height="12" rx="1.5"/>
 <rect class="full" x="868" y="374.0" width="6" height="12" rx="1.5"/>
 <rect class="full" x="876" y="374.0" width="6" height="12" rx="1.5"/>
 <rect class="full" x="884" y="374.0" width="6" height="12" rx="1.5"/>
@@ -1735,7 +1735,7 @@ text{font-size:12px}.h1{font-size:16px;font-weight:600}.h2{font-size:12px;font-w
 <rect class="empty" x="820" y="390.0" width="6" height="12" rx="1.5"/>
 <rect class="empty" x="828" y="390.0" width="6" height="12" rx="1.5"/>
 <rect class="empty" x="836" y="390.0" width="6" height="12" rx="1.5"/>
-<rect class="empty" x="844" y="390.0" width="6" height="12" rx="1.5"/>
+<rect class="full" x="844" y="390.0" width="6" height="12" rx="1.5"/>
 <rect class="full" x="852" y="390.0" width="6" height="12" rx="1.5"/>
 <rect class="full" x="860" y="390.0" width="6" height="12" rx="1.5"/>
 <rect class="full" x="868" y="390.0" width="6" height="12" rx="1.5"/>
@@ -1827,9 +1827,9 @@ text{font-size:12px}.h1{font-size:16px;font-weight:600}.h2{font-size:12px;font-w
 <rect class="empty" x="820" y="406.0" width="6" height="12" rx="1.5"/>
 <rect class="empty" x="828" y="406.0" width="6" height="12" rx="1.5"/>
 <rect class="empty" x="836" y="406.0" width="6" height="12" rx="1.5"/>
-<rect class="empty" x="844" y="406.0" width="6" height="12" rx="1.5"/>
-<rect class="full" x="852" y="406.0" width="6" height="12" rx="1.5"/>
-<rect class="some" x="860" y="406.0" width="6" height="12" rx="1.5"/>
+<rect class="full" x="844" y="406.0" width="6" height="12" rx="1.5"/>
+<rect class="some" x="852" y="406.0" width="6" height="12" rx="1.5"/>
+<rect class="full" x="860" y="406.0" width="6" height="12" rx="1.5"/>
 <rect class="full" x="868" y="406.0" width="6" height="12" rx="1.5"/>
 <rect class="full" x="876" y="406.0" width="6" height="12" rx="1.5"/>
 <rect class="full" x="884" y="406.0" width="6" height="12" rx="1.5"/>
@@ -1854,7 +1854,7 @@ text{font-size:12px}.h1{font-size:16px;font-weight:600}.h2{font-size:12px;font-w
 <rect class="full" x="1036" y="406.0" width="6" height="12" rx="1.5"/>
 <rect class="full" x="1044" y="406.0" width="6" height="12" rx="1.5"/>
 <rect class="full" x="1052" y="406.0" width="6" height="12" rx="1.5"/>
-<text class="t2" x="1122" y="416" text-anchor="end">98,9%</text>
+<text class="t2" x="1122" y="416" text-anchor="end">99,0%</text>
 <text class="t1 mono" x="24" y="432">datosabiertos.ssn.gob.ar</text>
 <rect class="empty" x="340" y="422.0" width="6" height="12" rx="1.5"/>
 <rect class="empty" x="348" y="422.0" width="6" height="12" rx="1.5"/>
@@ -1919,7 +1919,7 @@ text{font-size:12px}.h1{font-size:16px;font-weight:600}.h2{font-size:12px;font-w
 <rect class="empty" x="820" y="422.0" width="6" height="12" rx="1.5"/>
 <rect class="empty" x="828" y="422.0" width="6" height="12" rx="1.5"/>
 <rect class="empty" x="836" y="422.0" width="6" height="12" rx="1.5"/>
-<rect class="empty" x="844" y="422.0" width="6" height="12" rx="1.5"/>
+<rect class="full" x="844" y="422.0" width="6" height="12" rx="1.5"/>
 <rect class="full" x="852" y="422.0" width="6" height="12" rx="1.5"/>
 <rect class="full" x="860" y="422.0" width="6" height="12" rx="1.5"/>
 <rect class="full" x="868" y="422.0" width="6" height="12" rx="1.5"/>
@@ -1931,8 +1931,8 @@ text{font-size:12px}.h1{font-size:16px;font-weight:600}.h2{font-size:12px;font-w
 <rect class="full" x="916" y="422.0" width="6" height="12" rx="1.5"/>
 <rect class="full" x="924" y="422.0" width="6" height="12" rx="1.5"/>
 <rect class="full" x="932" y="422.0" width="6" height="12" rx="1.5"/>
-<rect class="full" x="940" y="422.0" width="6" height="12" rx="1.5"/>
-<rect class="most" x="948" y="422.0" width="6" height="12" rx="1.5"/>
+<rect class="most" x="940" y="422.0" width="6" height="12" rx="1.5"/>
+<rect class="full" x="948" y="422.0" width="6" height="12" rx="1.5"/>
 <rect class="full" x="956" y="422.0" width="6" height="12" rx="1.5"/>
 <rect class="full" x="964" y="422.0" width="6" height="12" rx="1.5"/>
 <rect class="full" x="972" y="422.0" width="6" height="12" rx="1.5"/>
@@ -2011,7 +2011,7 @@ text{font-size:12px}.h1{font-size:16px;font-weight:600}.h2{font-size:12px;font-w
 <rect class="empty" x="820" y="438.0" width="6" height="12" rx="1.5"/>
 <rect class="empty" x="828" y="438.0" width="6" height="12" rx="1.5"/>
 <rect class="empty" x="836" y="438.0" width="6" height="12" rx="1.5"/>
-<rect class="empty" x="844" y="438.0" width="6" height="12" rx="1.5"/>
+<rect class="none" x="844" y="438.0" width="6" height="12" rx="1.5"/>
 <rect class="none" x="852" y="438.0" width="6" height="12" rx="1.5"/>
 <rect class="none" x="860" y="438.0" width="6" height="12" rx="1.5"/>
 <rect class="none" x="868" y="438.0" width="6" height="12" rx="1.5"/>
@@ -2103,7 +2103,7 @@ text{font-size:12px}.h1{font-size:16px;font-weight:600}.h2{font-size:12px;font-w
 <rect class="empty" x="820" y="454.0" width="6" height="12" rx="1.5"/>
 <rect class="empty" x="828" y="454.0" width="6" height="12" rx="1.5"/>
 <rect class="empty" x="836" y="454.0" width="6" height="12" rx="1.5"/>
-<rect class="empty" x="844" y="454.0" width="6" height="12" rx="1.5"/>
+<rect class="full" x="844" y="454.0" width="6" height="12" rx="1.5"/>
 <rect class="full" x="852" y="454.0" width="6" height="12" rx="1.5"/>
 <rect class="full" x="860" y="454.0" width="6" height="12" rx="1.5"/>
 <rect class="full" x="868" y="454.0" width="6" height="12" rx="1.5"/>
@@ -2120,8 +2120,8 @@ text{font-size:12px}.h1{font-size:16px;font-weight:600}.h2{font-size:12px;font-w
 <rect class="full" x="956" y="454.0" width="6" height="12" rx="1.5"/>
 <rect class="full" x="964" y="454.0" width="6" height="12" rx="1.5"/>
 <rect class="full" x="972" y="454.0" width="6" height="12" rx="1.5"/>
-<rect class="full" x="980" y="454.0" width="6" height="12" rx="1.5"/>
-<rect class="some" x="988" y="454.0" width="6" height="12" rx="1.5"/>
+<rect class="some" x="980" y="454.0" width="6" height="12" rx="1.5"/>
+<rect class="full" x="988" y="454.0" width="6" height="12" rx="1.5"/>
 <rect class="full" x="996" y="454.0" width="6" height="12" rx="1.5"/>
 <rect class="full" x="1004" y="454.0" width="6" height="12" rx="1.5"/>
 <rect class="full" x="1012" y="454.0" width="6" height="12" rx="1.5"/>
@@ -2195,11 +2195,11 @@ text{font-size:12px}.h1{font-size:16px;font-weight:600}.h2{font-size:12px;font-w
 <rect class="empty" x="820" y="470.0" width="6" height="12" rx="1.5"/>
 <rect class="empty" x="828" y="470.0" width="6" height="12" rx="1.5"/>
 <rect class="empty" x="836" y="470.0" width="6" height="12" rx="1.5"/>
-<rect class="empty" x="844" y="470.0" width="6" height="12" rx="1.5"/>
+<rect class="full" x="844" y="470.0" width="6" height="12" rx="1.5"/>
 <rect class="full" x="852" y="470.0" width="6" height="12" rx="1.5"/>
 <rect class="full" x="860" y="470.0" width="6" height="12" rx="1.5"/>
-<rect class="full" x="868" y="470.0" width="6" height="12" rx="1.5"/>
-<rect class="most" x="876" y="470.0" width="6" height="12" rx="1.5"/>
+<rect class="most" x="868" y="470.0" width="6" height="12" rx="1.5"/>
+<rect class="full" x="876" y="470.0" width="6" height="12" rx="1.5"/>
 <rect class="full" x="884" y="470.0" width="6" height="12" rx="1.5"/>
 <rect class="full" x="892" y="470.0" width="6" height="12" rx="1.5"/>
 <rect class="full" x="900" y="470.0" width="6" height="12" rx="1.5"/>
@@ -2287,7 +2287,7 @@ text{font-size:12px}.h1{font-size:16px;font-weight:600}.h2{font-size:12px;font-w
 <rect class="empty" x="820" y="486.0" width="6" height="12" rx="1.5"/>
 <rect class="empty" x="828" y="486.0" width="6" height="12" rx="1.5"/>
 <rect class="empty" x="836" y="486.0" width="6" height="12" rx="1.5"/>
-<rect class="empty" x="844" y="486.0" width="6" height="12" rx="1.5"/>
+<rect class="full" x="844" y="486.0" width="6" height="12" rx="1.5"/>
 <rect class="full" x="852" y="486.0" width="6" height="12" rx="1.5"/>
 <rect class="full" x="860" y="486.0" width="6" height="12" rx="1.5"/>
 <rect class="full" x="868" y="486.0" width="6" height="12" rx="1.5"/>
@@ -2379,7 +2379,7 @@ text{font-size:12px}.h1{font-size:16px;font-weight:600}.h2{font-size:12px;font-w
 <rect class="empty" x="820" y="502.0" width="6" height="12" rx="1.5"/>
 <rect class="empty" x="828" y="502.0" width="6" height="12" rx="1.5"/>
 <rect class="empty" x="836" y="502.0" width="6" height="12" rx="1.5"/>
-<rect class="empty" x="844" y="502.0" width="6" height="12" rx="1.5"/>
+<rect class="full" x="844" y="502.0" width="6" height="12" rx="1.5"/>
 <rect class="full" x="852" y="502.0" width="6" height="12" rx="1.5"/>
 <rect class="full" x="860" y="502.0" width="6" height="12" rx="1.5"/>
 <rect class="full" x="868" y="502.0" width="6" height="12" rx="1.5"/>
@@ -2387,26 +2387,26 @@ text{font-size:12px}.h1{font-size:16px;font-weight:600}.h2{font-size:12px;font-w
 <rect class="full" x="884" y="502.0" width="6" height="12" rx="1.5"/>
 <rect class="full" x="892" y="502.0" width="6" height="12" rx="1.5"/>
 <rect class="full" x="900" y="502.0" width="6" height="12" rx="1.5"/>
-<rect class="full" x="908" y="502.0" width="6" height="12" rx="1.5"/>
-<rect class="most" x="916" y="502.0" width="6" height="12" rx="1.5"/>
+<rect class="most" x="908" y="502.0" width="6" height="12" rx="1.5"/>
+<rect class="full" x="916" y="502.0" width="6" height="12" rx="1.5"/>
 <rect class="full" x="924" y="502.0" width="6" height="12" rx="1.5"/>
 <rect class="full" x="932" y="502.0" width="6" height="12" rx="1.5"/>
-<rect class="full" x="940" y="502.0" width="6" height="12" rx="1.5"/>
-<rect class="most" x="948" y="502.0" width="6" height="12" rx="1.5"/>
-<rect class="full" x="956" y="502.0" width="6" height="12" rx="1.5"/>
-<rect class="most" x="964" y="502.0" width="6" height="12" rx="1.5"/>
-<rect class="full" x="972" y="502.0" width="6" height="12" rx="1.5"/>
-<rect class="most" x="980" y="502.0" width="6" height="12" rx="1.5"/>
-<rect class="some" x="988" y="502.0" width="6" height="12" rx="1.5"/>
+<rect class="most" x="940" y="502.0" width="6" height="12" rx="1.5"/>
+<rect class="full" x="948" y="502.0" width="6" height="12" rx="1.5"/>
+<rect class="most" x="956" y="502.0" width="6" height="12" rx="1.5"/>
+<rect class="full" x="964" y="502.0" width="6" height="12" rx="1.5"/>
+<rect class="most" x="972" y="502.0" width="6" height="12" rx="1.5"/>
+<rect class="some" x="980" y="502.0" width="6" height="12" rx="1.5"/>
+<rect class="full" x="988" y="502.0" width="6" height="12" rx="1.5"/>
 <rect class="full" x="996" y="502.0" width="6" height="12" rx="1.5"/>
 <rect class="full" x="1004" y="502.0" width="6" height="12" rx="1.5"/>
 <rect class="full" x="1012" y="502.0" width="6" height="12" rx="1.5"/>
 <rect class="full" x="1020" y="502.0" width="6" height="12" rx="1.5"/>
 <rect class="full" x="1028" y="502.0" width="6" height="12" rx="1.5"/>
 <rect class="full" x="1036" y="502.0" width="6" height="12" rx="1.5"/>
-<rect class="full" x="1044" y="502.0" width="6" height="12" rx="1.5"/>
-<rect class="some" x="1052" y="502.0" width="6" height="12" rx="1.5"/>
-<text class="t2" x="1122" y="512" text-anchor="end">97,9%</text>
+<rect class="some" x="1044" y="502.0" width="6" height="12" rx="1.5"/>
+<rect class="none" x="1052" y="502.0" width="6" height="12" rx="1.5"/>
+<text class="t2" x="1122" y="512" text-anchor="end">94,2%</text>
 <text class="t1 mono" x="24" y="528">datos.csjn.gov.ar</text>
 <rect class="empty" x="340" y="518.0" width="6" height="12" rx="1.5"/>
 <rect class="empty" x="348" y="518.0" width="6" height="12" rx="1.5"/>
@@ -2471,22 +2471,22 @@ text{font-size:12px}.h1{font-size:16px;font-weight:600}.h2{font-size:12px;font-w
 <rect class="empty" x="820" y="518.0" width="6" height="12" rx="1.5"/>
 <rect class="empty" x="828" y="518.0" width="6" height="12" rx="1.5"/>
 <rect class="empty" x="836" y="518.0" width="6" height="12" rx="1.5"/>
-<rect class="empty" x="844" y="518.0" width="6" height="12" rx="1.5"/>
-<rect class="most" x="852" y="518.0" width="6" height="12" rx="1.5"/>
+<rect class="most" x="844" y="518.0" width="6" height="12" rx="1.5"/>
+<rect class="full" x="852" y="518.0" width="6" height="12" rx="1.5"/>
 <rect class="full" x="860" y="518.0" width="6" height="12" rx="1.5"/>
 <rect class="full" x="868" y="518.0" width="6" height="12" rx="1.5"/>
-<rect class="full" x="876" y="518.0" width="6" height="12" rx="1.5"/>
+<rect class="most" x="876" y="518.0" width="6" height="12" rx="1.5"/>
 <rect class="most" x="884" y="518.0" width="6" height="12" rx="1.5"/>
 <rect class="most" x="892" y="518.0" width="6" height="12" rx="1.5"/>
 <rect class="most" x="900" y="518.0" width="6" height="12" rx="1.5"/>
 <rect class="most" x="908" y="518.0" width="6" height="12" rx="1.5"/>
-<rect class="most" x="916" y="518.0" width="6" height="12" rx="1.5"/>
-<rect class="full" x="924" y="518.0" width="6" height="12" rx="1.5"/>
-<rect class="most" x="932" y="518.0" width="6" height="12" rx="1.5"/>
+<rect class="full" x="916" y="518.0" width="6" height="12" rx="1.5"/>
+<rect class="most" x="924" y="518.0" width="6" height="12" rx="1.5"/>
+<rect class="full" x="932" y="518.0" width="6" height="12" rx="1.5"/>
 <rect class="full" x="940" y="518.0" width="6" height="12" rx="1.5"/>
-<rect class="full" x="948" y="518.0" width="6" height="12" rx="1.5"/>
+<rect class="most" x="948" y="518.0" width="6" height="12" rx="1.5"/>
 <rect class="most" x="956" y="518.0" width="6" height="12" rx="1.5"/>
-<rect class="most" x="964" y="518.0" width="6" height="12" rx="1.5"/>
+<rect class="full" x="964" y="518.0" width="6" height="12" rx="1.5"/>
 <rect class="full" x="972" y="518.0" width="6" height="12" rx="1.5"/>
 <rect class="full" x="980" y="518.0" width="6" height="12" rx="1.5"/>
 <rect class="full" x="988" y="518.0" width="6" height="12" rx="1.5"/>
@@ -2498,7 +2498,7 @@ text{font-size:12px}.h1{font-size:16px;font-weight:600}.h2{font-size:12px;font-w
 <rect class="full" x="1036" y="518.0" width="6" height="12" rx="1.5"/>
 <rect class="full" x="1044" y="518.0" width="6" height="12" rx="1.5"/>
 <rect class="full" x="1052" y="518.0" width="6" height="12" rx="1.5"/>
-<text class="t2" x="1122" y="528" text-anchor="end">98,9%</text>
+<text class="t2" x="1122" y="528" text-anchor="end">99,0%</text>
 <text class="t1 h2" x="24" y="549">Provincias y municipios</text>
 <line class="rule" x1="24" x2="1122" y1="554.5" y2="554.5"/>
 <text class="t1 mono" x="24" y="570">data.buenosaires.gob.ar</text>
@@ -2565,29 +2565,29 @@ text{font-size:12px}.h1{font-size:16px;font-weight:600}.h2{font-size:12px;font-w
 <rect class="empty" x="820" y="560.0" width="6" height="12" rx="1.5"/>
 <rect class="empty" x="828" y="560.0" width="6" height="12" rx="1.5"/>
 <rect class="empty" x="836" y="560.0" width="6" height="12" rx="1.5"/>
-<rect class="empty" x="844" y="560.0" width="6" height="12" rx="1.5"/>
-<rect class="full" x="852" y="560.0" width="6" height="12" rx="1.5"/>
-<rect class="most" x="860" y="560.0" width="6" height="12" rx="1.5"/>
+<rect class="full" x="844" y="560.0" width="6" height="12" rx="1.5"/>
+<rect class="most" x="852" y="560.0" width="6" height="12" rx="1.5"/>
+<rect class="some" x="860" y="560.0" width="6" height="12" rx="1.5"/>
 <rect class="some" x="868" y="560.0" width="6" height="12" rx="1.5"/>
-<rect class="some" x="876" y="560.0" width="6" height="12" rx="1.5"/>
-<rect class="most" x="884" y="560.0" width="6" height="12" rx="1.5"/>
-<rect class="some" x="892" y="560.0" width="6" height="12" rx="1.5"/>
+<rect class="most" x="876" y="560.0" width="6" height="12" rx="1.5"/>
+<rect class="some" x="884" y="560.0" width="6" height="12" rx="1.5"/>
+<rect class="most" x="892" y="560.0" width="6" height="12" rx="1.5"/>
 <rect class="most" x="900" y="560.0" width="6" height="12" rx="1.5"/>
 <rect class="most" x="908" y="560.0" width="6" height="12" rx="1.5"/>
 <rect class="most" x="916" y="560.0" width="6" height="12" rx="1.5"/>
-<rect class="most" x="924" y="560.0" width="6" height="12" rx="1.5"/>
+<rect class="some" x="924" y="560.0" width="6" height="12" rx="1.5"/>
 <rect class="some" x="932" y="560.0" width="6" height="12" rx="1.5"/>
-<rect class="some" x="940" y="560.0" width="6" height="12" rx="1.5"/>
-<rect class="full" x="948" y="560.0" width="6" height="12" rx="1.5"/>
-<rect class="most" x="956" y="560.0" width="6" height="12" rx="1.5"/>
-<rect class="full" x="964" y="560.0" width="6" height="12" rx="1.5"/>
-<rect class="most" x="972" y="560.0" width="6" height="12" rx="1.5"/>
+<rect class="full" x="940" y="560.0" width="6" height="12" rx="1.5"/>
+<rect class="most" x="948" y="560.0" width="6" height="12" rx="1.5"/>
+<rect class="full" x="956" y="560.0" width="6" height="12" rx="1.5"/>
+<rect class="most" x="964" y="560.0" width="6" height="12" rx="1.5"/>
+<rect class="some" x="972" y="560.0" width="6" height="12" rx="1.5"/>
 <rect class="some" x="980" y="560.0" width="6" height="12" rx="1.5"/>
 <rect class="some" x="988" y="560.0" width="6" height="12" rx="1.5"/>
-<rect class="some" x="996" y="560.0" width="6" height="12" rx="1.5"/>
-<rect class="most" x="1004" y="560.0" width="6" height="12" rx="1.5"/>
+<rect class="most" x="996" y="560.0" width="6" height="12" rx="1.5"/>
+<rect class="full" x="1004" y="560.0" width="6" height="12" rx="1.5"/>
 <rect class="full" x="1012" y="560.0" width="6" height="12" rx="1.5"/>
-<rect class="full" x="1020" y="560.0" width="6" height="12" rx="1.5"/>
+<rect class="some" x="1020" y="560.0" width="6" height="12" rx="1.5"/>
 <rect class="some" x="1028" y="560.0" width="6" height="12" rx="1.5"/>
 <rect class="some" x="1036" y="560.0" width="6" height="12" rx="1.5"/>
 <rect class="some" x="1044" y="560.0" width="6" height="12" rx="1.5"/>
@@ -2657,7 +2657,7 @@ text{font-size:12px}.h1{font-size:16px;font-weight:600}.h2{font-size:12px;font-w
 <rect class="empty" x="820" y="576.0" width="6" height="12" rx="1.5"/>
 <rect class="empty" x="828" y="576.0" width="6" height="12" rx="1.5"/>
 <rect class="empty" x="836" y="576.0" width="6" height="12" rx="1.5"/>
-<rect class="empty" x="844" y="576.0" width="6" height="12" rx="1.5"/>
+<rect class="none" x="844" y="576.0" width="6" height="12" rx="1.5"/>
 <rect class="none" x="852" y="576.0" width="6" height="12" rx="1.5"/>
 <rect class="none" x="860" y="576.0" width="6" height="12" rx="1.5"/>
 <rect class="none" x="868" y="576.0" width="6" height="12" rx="1.5"/>
@@ -2749,7 +2749,7 @@ text{font-size:12px}.h1{font-size:16px;font-weight:600}.h2{font-size:12px;font-w
 <rect class="empty" x="820" y="592.0" width="6" height="12" rx="1.5"/>
 <rect class="empty" x="828" y="592.0" width="6" height="12" rx="1.5"/>
 <rect class="empty" x="836" y="592.0" width="6" height="12" rx="1.5"/>
-<rect class="empty" x="844" y="592.0" width="6" height="12" rx="1.5"/>
+<rect class="full" x="844" y="592.0" width="6" height="12" rx="1.5"/>
 <rect class="full" x="852" y="592.0" width="6" height="12" rx="1.5"/>
 <rect class="full" x="860" y="592.0" width="6" height="12" rx="1.5"/>
 <rect class="full" x="868" y="592.0" width="6" height="12" rx="1.5"/>
@@ -2763,8 +2763,8 @@ text{font-size:12px}.h1{font-size:16px;font-weight:600}.h2{font-size:12px;font-w
 <rect class="full" x="932" y="592.0" width="6" height="12" rx="1.5"/>
 <rect class="full" x="940" y="592.0" width="6" height="12" rx="1.5"/>
 <rect class="full" x="948" y="592.0" width="6" height="12" rx="1.5"/>
-<rect class="full" x="956" y="592.0" width="6" height="12" rx="1.5"/>
-<rect class="most" x="964" y="592.0" width="6" height="12" rx="1.5"/>
+<rect class="most" x="956" y="592.0" width="6" height="12" rx="1.5"/>
+<rect class="full" x="964" y="592.0" width="6" height="12" rx="1.5"/>
 <rect class="full" x="972" y="592.0" width="6" height="12" rx="1.5"/>
 <rect class="full" x="980" y="592.0" width="6" height="12" rx="1.5"/>
 <rect class="full" x="988" y="592.0" width="6" height="12" rx="1.5"/>
@@ -2774,8 +2774,8 @@ text{font-size:12px}.h1{font-size:16px;font-weight:600}.h2{font-size:12px;font-w
 <rect class="full" x="1020" y="592.0" width="6" height="12" rx="1.5"/>
 <rect class="full" x="1028" y="592.0" width="6" height="12" rx="1.5"/>
 <rect class="full" x="1036" y="592.0" width="6" height="12" rx="1.5"/>
-<rect class="full" x="1044" y="592.0" width="6" height="12" rx="1.5"/>
-<rect class="most" x="1052" y="592.0" width="6" height="12" rx="1.5"/>
+<rect class="most" x="1044" y="592.0" width="6" height="12" rx="1.5"/>
+<rect class="full" x="1052" y="592.0" width="6" height="12" rx="1.5"/>
 <text class="t2" x="1122" y="602" text-anchor="end">99,7%</text>
 <text class="t1 mono" x="24" y="618">portal.hcdiputados-ba.gov.ar</text>
 <rect class="empty" x="340" y="608.0" width="6" height="12" rx="1.5"/>
@@ -2841,17 +2841,17 @@ text{font-size:12px}.h1{font-size:16px;font-weight:600}.h2{font-size:12px;font-w
 <rect class="empty" x="820" y="608.0" width="6" height="12" rx="1.5"/>
 <rect class="empty" x="828" y="608.0" width="6" height="12" rx="1.5"/>
 <rect class="empty" x="836" y="608.0" width="6" height="12" rx="1.5"/>
-<rect class="empty" x="844" y="608.0" width="6" height="12" rx="1.5"/>
-<rect class="some" x="852" y="608.0" width="6" height="12" rx="1.5"/>
+<rect class="some" x="844" y="608.0" width="6" height="12" rx="1.5"/>
+<rect class="full" x="852" y="608.0" width="6" height="12" rx="1.5"/>
 <rect class="full" x="860" y="608.0" width="6" height="12" rx="1.5"/>
 <rect class="full" x="868" y="608.0" width="6" height="12" rx="1.5"/>
 <rect class="full" x="876" y="608.0" width="6" height="12" rx="1.5"/>
 <rect class="full" x="884" y="608.0" width="6" height="12" rx="1.5"/>
 <rect class="full" x="892" y="608.0" width="6" height="12" rx="1.5"/>
 <rect class="full" x="900" y="608.0" width="6" height="12" rx="1.5"/>
-<rect class="full" x="908" y="608.0" width="6" height="12" rx="1.5"/>
-<rect class="most" x="916" y="608.0" width="6" height="12" rx="1.5"/>
-<rect class="some" x="924" y="608.0" width="6" height="12" rx="1.5"/>
+<rect class="most" x="908" y="608.0" width="6" height="12" rx="1.5"/>
+<rect class="some" x="916" y="608.0" width="6" height="12" rx="1.5"/>
+<rect class="full" x="924" y="608.0" width="6" height="12" rx="1.5"/>
 <rect class="full" x="932" y="608.0" width="6" height="12" rx="1.5"/>
 <rect class="full" x="940" y="608.0" width="6" height="12" rx="1.5"/>
 <rect class="full" x="948" y="608.0" width="6" height="12" rx="1.5"/>
@@ -2860,15 +2860,15 @@ text{font-size:12px}.h1{font-size:16px;font-weight:600}.h2{font-size:12px;font-w
 <rect class="full" x="972" y="608.0" width="6" height="12" rx="1.5"/>
 <rect class="full" x="980" y="608.0" width="6" height="12" rx="1.5"/>
 <rect class="full" x="988" y="608.0" width="6" height="12" rx="1.5"/>
-<rect class="full" x="996" y="608.0" width="6" height="12" rx="1.5"/>
-<rect class="most" x="1004" y="608.0" width="6" height="12" rx="1.5"/>
+<rect class="most" x="996" y="608.0" width="6" height="12" rx="1.5"/>
+<rect class="full" x="1004" y="608.0" width="6" height="12" rx="1.5"/>
 <rect class="full" x="1012" y="608.0" width="6" height="12" rx="1.5"/>
 <rect class="full" x="1020" y="608.0" width="6" height="12" rx="1.5"/>
 <rect class="full" x="1028" y="608.0" width="6" height="12" rx="1.5"/>
 <rect class="full" x="1036" y="608.0" width="6" height="12" rx="1.5"/>
 <rect class="full" x="1044" y="608.0" width="6" height="12" rx="1.5"/>
 <rect class="full" x="1052" y="608.0" width="6" height="12" rx="1.5"/>
-<text class="t2" x="1122" y="618" text-anchor="end">97,5%</text>
+<text class="t2" x="1122" y="618" text-anchor="end">97,6%</text>
 <text class="t1 mono" x="24" y="634">datos.santafe.gob.ar</text>
 <rect class="empty" x="340" y="624.0" width="6" height="12" rx="1.5"/>
 <rect class="empty" x="348" y="624.0" width="6" height="12" rx="1.5"/>
@@ -2933,7 +2933,7 @@ text{font-size:12px}.h1{font-size:16px;font-weight:600}.h2{font-size:12px;font-w
 <rect class="empty" x="820" y="624.0" width="6" height="12" rx="1.5"/>
 <rect class="empty" x="828" y="624.0" width="6" height="12" rx="1.5"/>
 <rect class="empty" x="836" y="624.0" width="6" height="12" rx="1.5"/>
-<rect class="empty" x="844" y="624.0" width="6" height="12" rx="1.5"/>
+<rect class="none" x="844" y="624.0" width="6" height="12" rx="1.5"/>
 <rect class="none" x="852" y="624.0" width="6" height="12" rx="1.5"/>
 <rect class="none" x="860" y="624.0" width="6" height="12" rx="1.5"/>
 <rect class="none" x="868" y="624.0" width="6" height="12" rx="1.5"/>
@@ -3025,7 +3025,7 @@ text{font-size:12px}.h1{font-size:16px;font-weight:600}.h2{font-size:12px;font-w
 <rect class="empty" x="820" y="640.0" width="6" height="12" rx="1.5"/>
 <rect class="empty" x="828" y="640.0" width="6" height="12" rx="1.5"/>
 <rect class="empty" x="836" y="640.0" width="6" height="12" rx="1.5"/>
-<rect class="empty" x="844" y="640.0" width="6" height="12" rx="1.5"/>
+<rect class="full" x="844" y="640.0" width="6" height="12" rx="1.5"/>
 <rect class="full" x="852" y="640.0" width="6" height="12" rx="1.5"/>
 <rect class="full" x="860" y="640.0" width="6" height="12" rx="1.5"/>
 <rect class="full" x="868" y="640.0" width="6" height="12" rx="1.5"/>
@@ -3033,26 +3033,26 @@ text{font-size:12px}.h1{font-size:16px;font-weight:600}.h2{font-size:12px;font-w
 <rect class="full" x="884" y="640.0" width="6" height="12" rx="1.5"/>
 <rect class="full" x="892" y="640.0" width="6" height="12" rx="1.5"/>
 <rect class="full" x="900" y="640.0" width="6" height="12" rx="1.5"/>
-<rect class="full" x="908" y="640.0" width="6" height="12" rx="1.5"/>
-<rect class="some" x="916" y="640.0" width="6" height="12" rx="1.5"/>
+<rect class="some" x="908" y="640.0" width="6" height="12" rx="1.5"/>
+<rect class="full" x="916" y="640.0" width="6" height="12" rx="1.5"/>
 <rect class="full" x="924" y="640.0" width="6" height="12" rx="1.5"/>
 <rect class="full" x="932" y="640.0" width="6" height="12" rx="1.5"/>
 <rect class="full" x="940" y="640.0" width="6" height="12" rx="1.5"/>
 <rect class="full" x="948" y="640.0" width="6" height="12" rx="1.5"/>
 <rect class="full" x="956" y="640.0" width="6" height="12" rx="1.5"/>
 <rect class="full" x="964" y="640.0" width="6" height="12" rx="1.5"/>
-<rect class="full" x="972" y="640.0" width="6" height="12" rx="1.5"/>
-<rect class="most" x="980" y="640.0" width="6" height="12" rx="1.5"/>
+<rect class="most" x="972" y="640.0" width="6" height="12" rx="1.5"/>
+<rect class="full" x="980" y="640.0" width="6" height="12" rx="1.5"/>
 <rect class="full" x="988" y="640.0" width="6" height="12" rx="1.5"/>
 <rect class="full" x="996" y="640.0" width="6" height="12" rx="1.5"/>
-<rect class="full" x="1004" y="640.0" width="6" height="12" rx="1.5"/>
-<rect class="some" x="1012" y="640.0" width="6" height="12" rx="1.5"/>
-<rect class="full" x="1020" y="640.0" width="6" height="12" rx="1.5"/>
+<rect class="some" x="1004" y="640.0" width="6" height="12" rx="1.5"/>
+<rect class="full" x="1012" y="640.0" width="6" height="12" rx="1.5"/>
+<rect class="some" x="1020" y="640.0" width="6" height="12" rx="1.5"/>
 <rect class="some" x="1028" y="640.0" width="6" height="12" rx="1.5"/>
-<rect class="some" x="1036" y="640.0" width="6" height="12" rx="1.5"/>
+<rect class="full" x="1036" y="640.0" width="6" height="12" rx="1.5"/>
 <rect class="full" x="1044" y="640.0" width="6" height="12" rx="1.5"/>
 <rect class="full" x="1052" y="640.0" width="6" height="12" rx="1.5"/>
-<text class="t2" x="1122" y="650" text-anchor="end">95,3%</text>
+<text class="t2" x="1122" y="650" text-anchor="end">95,5%</text>
 <text class="t1 mono" x="24" y="666">ckan.ciudaddemendoza.gov.ar</text>
 <rect class="empty" x="340" y="656.0" width="6" height="12" rx="1.5"/>
 <rect class="empty" x="348" y="656.0" width="6" height="12" rx="1.5"/>
@@ -3117,13 +3117,13 @@ text{font-size:12px}.h1{font-size:16px;font-weight:600}.h2{font-size:12px;font-w
 <rect class="empty" x="820" y="656.0" width="6" height="12" rx="1.5"/>
 <rect class="empty" x="828" y="656.0" width="6" height="12" rx="1.5"/>
 <rect class="empty" x="836" y="656.0" width="6" height="12" rx="1.5"/>
-<rect class="empty" x="844" y="656.0" width="6" height="12" rx="1.5"/>
+<rect class="most" x="844" y="656.0" width="6" height="12" rx="1.5"/>
 <rect class="most" x="852" y="656.0" width="6" height="12" rx="1.5"/>
-<rect class="most" x="860" y="656.0" width="6" height="12" rx="1.5"/>
+<rect class="full" x="860" y="656.0" width="6" height="12" rx="1.5"/>
 <rect class="full" x="868" y="656.0" width="6" height="12" rx="1.5"/>
 <rect class="full" x="876" y="656.0" width="6" height="12" rx="1.5"/>
-<rect class="full" x="884" y="656.0" width="6" height="12" rx="1.5"/>
-<rect class="most" x="892" y="656.0" width="6" height="12" rx="1.5"/>
+<rect class="most" x="884" y="656.0" width="6" height="12" rx="1.5"/>
+<rect class="full" x="892" y="656.0" width="6" height="12" rx="1.5"/>
 <rect class="full" x="900" y="656.0" width="6" height="12" rx="1.5"/>
 <rect class="full" x="908" y="656.0" width="6" height="12" rx="1.5"/>
 <rect class="full" x="916" y="656.0" width="6" height="12" rx="1.5"/>
@@ -3209,7 +3209,7 @@ text{font-size:12px}.h1{font-size:16px;font-weight:600}.h2{font-size:12px;font-w
 <rect class="empty" x="820" y="672.0" width="6" height="12" rx="1.5"/>
 <rect class="empty" x="828" y="672.0" width="6" height="12" rx="1.5"/>
 <rect class="empty" x="836" y="672.0" width="6" height="12" rx="1.5"/>
-<rect class="empty" x="844" y="672.0" width="6" height="12" rx="1.5"/>
+<rect class="full" x="844" y="672.0" width="6" height="12" rx="1.5"/>
 <rect class="full" x="852" y="672.0" width="6" height="12" rx="1.5"/>
 <rect class="full" x="860" y="672.0" width="6" height="12" rx="1.5"/>
 <rect class="full" x="868" y="672.0" width="6" height="12" rx="1.5"/>
@@ -3224,8 +3224,8 @@ text{font-size:12px}.h1{font-size:16px;font-weight:600}.h2{font-size:12px;font-w
 <rect class="full" x="940" y="672.0" width="6" height="12" rx="1.5"/>
 <rect class="full" x="948" y="672.0" width="6" height="12" rx="1.5"/>
 <rect class="full" x="956" y="672.0" width="6" height="12" rx="1.5"/>
-<rect class="full" x="964" y="672.0" width="6" height="12" rx="1.5"/>
-<rect class="most" x="972" y="672.0" width="6" height="12" rx="1.5"/>
+<rect class="most" x="964" y="672.0" width="6" height="12" rx="1.5"/>
+<rect class="full" x="972" y="672.0" width="6" height="12" rx="1.5"/>
 <rect class="full" x="980" y="672.0" width="6" height="12" rx="1.5"/>
 <rect class="full" x="988" y="672.0" width="6" height="12" rx="1.5"/>
 <rect class="full" x="996" y="672.0" width="6" height="12" rx="1.5"/>
@@ -3301,7 +3301,7 @@ text{font-size:12px}.h1{font-size:16px;font-weight:600}.h2{font-size:12px;font-w
 <rect class="empty" x="820" y="688.0" width="6" height="12" rx="1.5"/>
 <rect class="empty" x="828" y="688.0" width="6" height="12" rx="1.5"/>
 <rect class="empty" x="836" y="688.0" width="6" height="12" rx="1.5"/>
-<rect class="empty" x="844" y="688.0" width="6" height="12" rx="1.5"/>
+<rect class="full" x="844" y="688.0" width="6" height="12" rx="1.5"/>
 <rect class="full" x="852" y="688.0" width="6" height="12" rx="1.5"/>
 <rect class="full" x="860" y="688.0" width="6" height="12" rx="1.5"/>
 <rect class="full" x="868" y="688.0" width="6" height="12" rx="1.5"/>
@@ -3330,14 +3330,14 @@ text{font-size:12px}.h1{font-size:16px;font-weight:600}.h2{font-size:12px;font-w
 <rect class="full" x="1052" y="688.0" width="6" height="12" rx="1.5"/>
 <text class="t2" x="1122" y="698" text-anchor="end">100%</text>
 <line class="rule" x1="340.5" x2="340.5" y1="704" y2="710"/>
-<text class="t2" x="340" y="724">13 ago</text>
-<line class="rule" x1="492.5" x2="492.5" y1="704" y2="710"/>
-<text class="t2" x="492" y="724">sep</text>
-<line class="rule" x1="732.5" x2="732.5" y1="704" y2="710"/>
-<text class="t2" x="732" y="724">oct</text>
-<line class="rule" x1="980.5" x2="980.5" y1="704" y2="710"/>
-<text class="t2" x="980" y="724">nov</text>
-<text class="t2" x="1058" y="724" text-anchor="end">10 nov</text>
+<text class="t2" x="340" y="724">14 ago</text>
+<line class="rule" x1="484.5" x2="484.5" y1="704" y2="710"/>
+<text class="t2" x="484" y="724">sep</text>
+<line class="rule" x1="724.5" x2="724.5" y1="704" y2="710"/>
+<text class="t2" x="724" y="724">oct</text>
+<line class="rule" x1="972.5" x2="972.5" y1="704" y2="710"/>
+<text class="t2" x="972" y="724">nov</text>
+<text class="t2" x="1058" y="724" text-anchor="end">11 nov</text>
 <rect class="full" x="340" y="734" width="10" height="10" rx="2"/>
 <text class="t2" x="355" y="744">100%</text>
 <rect class="most" x="401" y="734" width="10" height="10" rx="2"/>
