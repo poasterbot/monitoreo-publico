@@ -5,6 +5,7 @@
   "timezone": "America/Argentina/Buenos_Aires",
   "checks": [
     {"time": "2026-11-12T00:00:01-03:00", "up": false, "status": 504, "ms": 30021, "error": "http 504"},
-    {"time": "2026-11-12T00:30:01-03:00", "up": false, "status": null, "ms": 30039, "error": "timeout"}
+    {"time": "2026-11-12T00:30:01-03:00", "up": false, "status": null, "ms": 30039, "error": "timeout"},
+    {"time": "2026-11-12T01:00:01-03:00", "up": false, "status": null, "ms": 30040, "error": "timeout"}
   ]
 }
