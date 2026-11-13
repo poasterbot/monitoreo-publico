@@ -47,6 +47,7 @@
     {"time": "2026-11-12T20:00:01-03:00", "up": false, "status": null, "ms": 13, "error": "connection reset"},
     {"time": "2026-11-12T20:30:01-03:00", "up": false, "status": null, "ms": 9, "error": "connection reset"},
     {"time": "2026-11-12T21:00:01-03:00", "up": false, "status": null, "ms": 14, "error": "connection reset"},
-    {"time": "2026-11-12T21:30:01-03:00", "up": false, "status": null, "ms": 8, "error": "connection reset"}
+    {"time": "2026-11-12T21:30:01-03:00", "up": false, "status": null, "ms": 8, "error": "connection reset"},
+    {"time": "2026-11-12T22:00:01-03:00", "up": false, "status": null, "ms": 7, "error": "connection reset"}
   ]
 }
