@@ -4,6 +4,7 @@
   "date": "2026-11-13",
   "timezone": "America/Argentina/Buenos_Aires",
   "checks": [
-    {"time": "2026-11-13T00:00:01-03:00", "up": false, "status": null, "ms": 8, "error": "connection reset"}
+    {"time": "2026-11-13T00:00:01-03:00", "up": false, "status": null, "ms": 8, "error": "connection reset"},
+    {"time": "2026-11-13T00:30:02-03:00", "up": false, "status": null, "ms": 14, "error": "connection reset"}
   ]
 }

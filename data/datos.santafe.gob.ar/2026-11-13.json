@@ -4,6 +4,7 @@
   "date": "2026-11-13",
   "timezone": "America/Argentina/Buenos_Aires",
   "checks": [
-    {"time": "2026-11-13T00:00:01-03:00", "up": false, "status": null, "ms": 116, "error": "invalid http response"}
+    {"time": "2026-11-13T00:00:01-03:00", "up": false, "status": null, "ms": 116, "error": "invalid http response"},
+    {"time": "2026-11-13T00:30:02-03:00", "up": false, "status": null, "ms": 47, "error": "invalid http response"}
   ]
 }
