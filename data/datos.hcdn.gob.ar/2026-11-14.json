@@ -33,6 +33,7 @@
     {"time": "2026-11-14T13:00:01-03:00", "up": false, "status": 503, "ms": 31, "error": "http 503"},
     {"time": "2026-11-14T13:30:01-03:00", "up": false, "status": 503, "ms": 40, "error": "http 503"},
     {"time": "2026-11-14T14:00:01-03:00", "up": false, "status": 503, "ms": 34, "error": "http 503"},
-    {"time": "2026-11-14T14:30:01-03:00", "up": false, "status": 503, "ms": 30, "error": "http 503"}
+    {"time": "2026-11-14T14:30:01-03:00", "up": false, "status": 503, "ms": 30, "error": "http 503"},
+    {"time": "2026-11-14T15:00:01-03:00", "up": false, "status": 503, "ms": 34, "error": "http 503"}
   ]
 }
