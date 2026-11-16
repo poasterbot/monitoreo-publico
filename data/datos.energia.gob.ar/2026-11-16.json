@@ -33,6 +33,7 @@
     {"time": "2026-11-16T13:00:02-03:00", "up": false, "status": null, "ms": 2246, "error": "OSError: [Errno 113] No route to host"},
     {"time": "2026-11-16T13:30:02-03:00", "up": false, "status": null, "ms": 30017, "error": "timeout"},
     {"time": "2026-11-16T14:00:01-03:00", "up": false, "status": null, "ms": 30035, "error": "timeout"},
-    {"time": "2026-11-16T14:30:01-03:00", "up": false, "status": null, "ms": 30029, "error": "timeout"}
+    {"time": "2026-11-16T14:30:01-03:00", "up": false, "status": null, "ms": 30029, "error": "timeout"},
+    {"time": "2026-11-16T15:00:01-03:00", "up": false, "status": null, "ms": 30036, "error": "timeout"}
   ]
 }
