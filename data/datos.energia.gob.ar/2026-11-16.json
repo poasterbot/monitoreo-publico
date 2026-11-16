@@ -23,6 +23,7 @@
     {"time": "2026-11-16T08:00:01-03:00", "up": false, "status": null, "ms": 1819, "error": "OSError: [Errno 113] No route to host"},
     {"time": "2026-11-16T08:30:01-03:00", "up": false, "status": null, "ms": 1041, "error": "OSError: [Errno 113] No route to host"},
     {"time": "2026-11-16T09:00:02-03:00", "up": false, "status": null, "ms": 1610, "error": "OSError: [Errno 113] No route to host"},
-    {"time": "2026-11-16T09:30:01-03:00", "up": false, "status": null, "ms": 1046, "error": "OSError: [Errno 113] No route to host"}
+    {"time": "2026-11-16T09:30:01-03:00", "up": false, "status": null, "ms": 1046, "error": "OSError: [Errno 113] No route to host"},
+    {"time": "2026-11-16T10:00:02-03:00", "up": false, "status": null, "ms": 1392, "error": "OSError: [Errno 113] No route to host"}
   ]
 }
