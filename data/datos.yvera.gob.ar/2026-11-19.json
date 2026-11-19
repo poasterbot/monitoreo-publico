@@ -16,6 +16,7 @@
     {"time": "2026-11-19T04:30:01-03:00", "up": false, "status": 403, "ms": 54, "error": "http 403"},
     {"time": "2026-11-19T05:00:02-03:00", "up": false, "status": 403, "ms": 77, "error": "http 403"},
     {"time": "2026-11-19T05:30:02-03:00", "up": false, "status": 403, "ms": 51, "error": "http 403"},
-    {"time": "2026-11-19T06:00:02-03:00", "up": false, "status": 403, "ms": 53, "error": "http 403"}
+    {"time": "2026-11-19T06:00:02-03:00", "up": false, "status": 403, "ms": 53, "error": "http 403"},
+    {"time": "2026-11-19T06:30:01-03:00", "up": false, "status": 403, "ms": 48, "error": "http 403"}
   ]
 }
