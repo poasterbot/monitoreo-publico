@@ -24,6 +24,7 @@
     {"time": "2026-11-20T08:30:01-03:00", "up": true, "status": 200, "ms": 81, "tls_error": "tls: CERTIFICATE_VERIFY_FAILED"},
     {"time": "2026-11-20T09:00:01-03:00", "up": true, "status": 200, "ms": 195, "tls_error": "tls: CERTIFICATE_VERIFY_FAILED"},
     {"time": "2026-11-20T09:30:01-03:00", "up": true, "status": 200, "ms": 69, "tls_error": "tls: CERTIFICATE_VERIFY_FAILED"},
-    {"time": "2026-11-20T10:00:01-03:00", "up": true, "status": 200, "ms": 138, "tls_error": "tls: CERTIFICATE_VERIFY_FAILED"}
+    {"time": "2026-11-20T10:00:01-03:00", "up": true, "status": 200, "ms": 138, "tls_error": "tls: CERTIFICATE_VERIFY_FAILED"},
+    {"time": "2026-11-20T10:30:01-03:00", "up": true, "status": 200, "ms": 68, "tls_error": "tls: CERTIFICATE_VERIFY_FAILED"}
   ]
 }
