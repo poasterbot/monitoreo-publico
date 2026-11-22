@@ -42,6 +42,7 @@
     {"time": "2026-11-22T17:30:01-03:00", "up": false, "status": 503, "ms": 39, "error": "http 503"},
     {"time": "2026-11-22T18:00:02-03:00", "up": false, "status": 503, "ms": 33, "error": "http 503"},
     {"time": "2026-11-22T18:30:02-03:00", "up": false, "status": 503, "ms": 34, "error": "http 503"},
-    {"time": "2026-11-22T19:00:02-03:00", "up": false, "status": null, "ms": 2976, "error": "connection reset"}
+    {"time": "2026-11-22T19:00:02-03:00", "up": false, "status": null, "ms": 2976, "error": "connection reset"},
+    {"time": "2026-11-22T19:30:01-03:00", "up": false, "status": null, "ms": 2981, "error": "connection reset"}
   ]
 }
