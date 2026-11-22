@@ -13,6 +13,7 @@
     {"time": "2026-11-22T03:00:02-03:00", "up": false, "status": null, "ms": 2968, "error": "connection reset"},
     {"time": "2026-11-22T03:30:02-03:00", "up": false, "status": null, "ms": 2975, "error": "connection reset"},
     {"time": "2026-11-22T04:00:01-03:00", "up": false, "status": null, "ms": 2968, "error": "connection reset"},
-    {"time": "2026-11-22T04:30:02-03:00", "up": false, "status": null, "ms": 2975, "error": "connection reset"}
+    {"time": "2026-11-22T04:30:02-03:00", "up": false, "status": null, "ms": 2975, "error": "connection reset"},
+    {"time": "2026-11-22T05:00:01-03:00", "up": false, "status": null, "ms": 2972, "error": "connection reset"}
   ]
 }
