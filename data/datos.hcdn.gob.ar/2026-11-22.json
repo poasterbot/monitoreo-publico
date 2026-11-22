@@ -5,6 +5,7 @@
   "timezone": "America/Argentina/Buenos_Aires",
   "checks": [
     {"time": "2026-11-22T00:00:01-03:00", "up": false, "status": 503, "ms": 39, "error": "http 503"},
-    {"time": "2026-11-22T00:30:02-03:00", "up": false, "status": null, "ms": 2974, "error": "connection reset"}
+    {"time": "2026-11-22T00:30:02-03:00", "up": false, "status": null, "ms": 2974, "error": "connection reset"},
+    {"time": "2026-11-22T01:00:01-03:00", "up": false, "status": null, "ms": 2976, "error": "connection reset"}
   ]
 }
