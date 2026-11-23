@@ -46,6 +46,7 @@
     {"time": "2026-11-22T19:30:01-03:00", "up": false, "status": 504, "ms": 30024, "error": "http 504"},
     {"time": "2026-11-22T20:00:02-03:00", "up": false, "status": null, "ms": 30039, "error": "timeout"},
     {"time": "2026-11-22T20:30:02-03:00", "up": false, "status": null, "ms": 30038, "error": "timeout"},
-    {"time": "2026-11-22T21:00:02-03:00", "up": false, "status": null, "ms": 30039, "error": "timeout"}
+    {"time": "2026-11-22T21:00:02-03:00", "up": false, "status": null, "ms": 30039, "error": "timeout"},
+    {"time": "2026-11-22T21:30:01-03:00", "up": false, "status": 504, "ms": 30021, "error": "http 504"}
   ]
 }
