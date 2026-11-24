@@ -14,6 +14,7 @@
     {"time": "2026-11-24T03:30:01-03:00", "up": false, "status": null, "ms": 878, "error": "IncompleteRead: IncompleteRead(0 bytes read)"},
     {"time": "2026-11-24T04:00:01-03:00", "up": false, "status": 500, "ms": 16, "error": "http 500"},
     {"time": "2026-11-24T04:30:01-03:00", "up": false, "status": null, "ms": 730, "error": "IncompleteRead: IncompleteRead(0 bytes read)"},
-    {"time": "2026-11-24T05:00:01-03:00", "up": false, "status": null, "ms": 30036, "error": "timeout"}
+    {"time": "2026-11-24T05:00:01-03:00", "up": false, "status": null, "ms": 30036, "error": "timeout"},
+    {"time": "2026-11-24T05:30:01-03:00", "up": false, "status": 504, "ms": 30017, "error": "http 504"}
   ]
 }
