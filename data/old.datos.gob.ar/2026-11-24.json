@@ -6,6 +6,7 @@
   "checks": [
     {"time": "2026-11-24T00:00:01-03:00", "up": false, "status": 502, "ms": 225, "error": "http 502"},
     {"time": "2026-11-24T00:30:02-03:00", "up": false, "status": null, "ms": 945, "error": "IncompleteRead: IncompleteRead(0 bytes read)"},
-    {"time": "2026-11-24T01:00:02-03:00", "up": false, "status": 504, "ms": 30018, "error": "http 504"}
+    {"time": "2026-11-24T01:00:02-03:00", "up": false, "status": 504, "ms": 30018, "error": "http 504"},
+    {"time": "2026-11-24T01:30:01-03:00", "up": false, "status": 504, "ms": 30019, "error": "http 504"}
   ]
 }
