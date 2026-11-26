@@ -4,6 +4,7 @@
   "date": "2026-11-26",
   "timezone": "America/Argentina/Buenos_Aires",
   "checks": [
-    {"time": "2026-11-26T00:00:02-03:00", "up": false, "status": 403, "ms": 19, "error": "http 403"}
+    {"time": "2026-11-26T00:00:02-03:00", "up": false, "status": 403, "ms": 19, "error": "http 403"},
+    {"time": "2026-11-26T00:30:02-03:00", "up": false, "status": 403, "ms": 28, "error": "http 403"}
   ]
 }
