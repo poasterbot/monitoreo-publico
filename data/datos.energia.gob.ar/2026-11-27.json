@@ -4,6 +4,7 @@
   "date": "2026-11-27",
   "timezone": "America/Argentina/Buenos_Aires",
   "checks": [
-    {"time": "2026-11-27T10:30:01-03:00", "up": false, "status": null, "ms": 1316, "error": "OSError: [Errno 113] No route to host"}
+    {"time": "2026-11-27T10:30:01-03:00", "up": false, "status": null, "ms": 1316, "error": "OSError: [Errno 113] No route to host"},
+    {"time": "2026-11-27T11:00:01-03:00", "up": false, "status": null, "ms": 1015, "error": "OSError: [Errno 113] No route to host"}
   ]
 }
