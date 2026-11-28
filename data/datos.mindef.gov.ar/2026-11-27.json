@@ -15,6 +15,7 @@
     {"time": "2026-11-27T20:30:01-03:00", "up": false, "status": null, "ms": 161, "error": "connection reset", "tls_error": "tls: CERTIFICATE_VERIFY_FAILED"},
     {"time": "2026-11-27T21:00:01-03:00", "up": false, "status": null, "ms": 123, "error": "connection reset", "tls_error": "tls: CERTIFICATE_VERIFY_FAILED"},
     {"time": "2026-11-27T21:30:02-03:00", "up": false, "status": null, "ms": 125, "error": "connection reset", "tls_error": "tls: CERTIFICATE_VERIFY_FAILED"},
-    {"time": "2026-11-27T22:00:01-03:00", "up": false, "status": null, "ms": 122, "error": "connection reset", "tls_error": "tls: CERTIFICATE_VERIFY_FAILED"}
+    {"time": "2026-11-27T22:00:01-03:00", "up": false, "status": null, "ms": 122, "error": "connection reset", "tls_error": "tls: CERTIFICATE_VERIFY_FAILED"},
+    {"time": "2026-11-27T22:30:01-03:00", "up": false, "status": null, "ms": 146, "error": "connection reset", "tls_error": "tls: CERTIFICATE_VERIFY_FAILED"}
   ]
 }
