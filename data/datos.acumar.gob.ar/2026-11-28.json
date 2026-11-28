@@ -1,0 +1,9 @@
+{
+  "id": "datos.acumar.gob.ar",
+  "url": "https://datos.acumar.gob.ar/",
+  "date": "2026-11-28",
+  "timezone": "America/Argentina/Buenos_Aires",
+  "checks": [
+    {"time": "2026-11-28T00:00:01-03:00", "up": false, "status": null, "ms": 1144, "error": "OSError: [Errno 113] No route to host"}
+  ]
+}
